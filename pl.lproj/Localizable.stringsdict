@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>counter.followers</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@followers@</string>
+            <key>followers</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>one</key>
+                <string>%d obserwujący</string>
+                <key>few</key>
+                <string>%d obserwujących</string>
+                <key>many</key>
+                <string>%d obserwujących</string>
+                <key>other</key>
+                <string>%d obserwujących</string>
+            </dict>
+        </dict>
+        <key>counter.following</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@following@</string>
+            <key>following</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>one</key>
+                <string>%d obserwowany</string>
+                <key>few</key>
+                <string>%d obserwowanych</string>
+                <key>many</key>
+                <string>%d obserwowanych</string>
+                <key>other</key>
+                <string>%d obserwowanych</string>
+            </dict>
+        </dict>
+        <key>notification.followersCount</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@value@</string>
+            <key>value</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>zero</key>
+                <string>Nikt nie obserwuje Cię</string>
+                <key>one</key>
+                <string>%d użytkownik obserwuje Cię</string>
+                <key>few</key>
+                <string>%d użytkowników obserwuje Cię</string>
+                <key>many</key>
+                <string>%d użytkowników obserwuje Cię</string>
+                <key>other</key>
+                <string>%d użytkowników obserwuje Cię</string>
+            </dict>
+        </dict>
+    </dict>
+</plist>

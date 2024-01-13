@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>counter.followers</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@followers@</string>
+            <key>followers</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>one</key>
+                <string>%d follower</string>
+                <key>other</key>
+                <string>%d follower</string>
+            </dict>
+        </dict>
+        <key>counter.following</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@following@</string>
+            <key>following</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>one</key>
+                <string>%d abonniert</string>
+                <key>other</key>
+                <string>%d abonniert</string>
+            </dict>
+        </dict>
+        <key>notification.followersCount</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@value@</string>
+            <key>value</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>zero</key>
+                <string>Keine Nutzer haben Ihnen gefolgt</string>
+                <key>one</key>
+                <string>%d Nutzer hat Ihnen gefolgt</string>
+                <key>other</key>
+                <string>%d Nutzer haben Ihnen gefolgt</string>
+            </dict>
+        </dict>
+    </dict>
+</plist>

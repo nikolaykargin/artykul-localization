@@ -1,0 +1,360 @@
+"code" = "pl";
+
+"auth.sign-in" = "Zaloguj się";
+"auth.signOut" = "Wyloguj się";
+
+"tabBar.sources" = "Źródła";
+"tabBar.favorites" = "Ulubione";
+"tabBar.add-source" = "Dodaj źródło";
+"tabBar.settings" = "Ustawienia";
+"tabBar.readingList" = "Lista czytania";
+"tabBar.bookmarks" = "Zakładki";
+
+"add-source.url" = "Adres strony lub kanału RSS";
+"add-source.submit" = "Dodaj źródło";
+
+"edit-source.title" = "Edytuj źródło";
+"edit-source.submit" = "Zapisz";
+"edit-source.articleViewerDisabled" = "Nie używaj przeglądarki artykułów";
+"edit-source.feedsNote" = "Możesz podłączyć wiele kanałów RSS do jednej strony. Możesz wyłączyć aktualizację pojedynczego kanału, jeśli już Cię nie interesuje.";
+
+"folder.unsorted" = "Nieposortowane";
+
+"select-folder.create-new" = "Utwórz nowy";
+"create-folder.title" = "Utwórz folder";
+"create-folder.name" = "Nazwa folderu";
+"edit-folder.title" = "Edytuj folder";
+
+"delete" = "Usuń";
+"remove" = "Usuń";
+"cancel" = "Anuluj";
+"create" = "Utwórz";
+"today" = "Dzisiaj";
+"yesterday" = "Wczoraj";
+"feed" = "Kanał";
+"feeds" = "Kanały";
+"recommendations" = "Polecane";
+"author" = "Autor";
+"done" = "Gotowe";
+"folder" = "Folder";
+"website" = "Strona internetowa";
+"subscribe" = "Subskrybuj";
+"unsubscribe" = "Anuluj subskrypcję";
+"tos" = "Warunki korzystania";
+"privacy-policy" = "Polityka prywatności";
+"sources" = "Źródła";
+"control-panel" = "Artykul CLI";
+"notNow" = "Nie teraz";
+"notifications" = "Powiadomienia";
+"settings" = "Ustawienia";
+
+"instagram" = "Instagram";
+"share.instagram.stories" = "Historie na Instagramie";
+
+"discover" = "Odkrywaj";
+"discover.suggestion" = "Sugestia";
+"discover.suggestion.note" = "Możesz zaproponować dowolną stronę. Będziemy dokładnie sprawdzać zawartość strony i ewentualnie ją dodać.";
+"discover.unsupported" = "Odkrywanie nie jest obsługiwane w Twoim języku lub regionie. Możesz zaproponować swoje ulubione strony, klikając + na górze.";
+
+"categories" = "Kategorie";
+"search" = "Szukaj";
+"search.results" = "Wyniki wyszukiwania";
+"search.articles.description" = "Szukaj artykułów z Twojego kanału.";
+
+"feed.empty" = "Jeszcze nic nie ma.";
+"feed.error" = "Nie udało się pobrać artykułów";
+"feed.empty.bookmarks_1" = "W tej sekcji możesz przechowywać strony, które nie mają kanału RSS. Aby dodać stronę do tej listy, dotknij ";
+"feed.empty.bookmarks_2" = " powyżej lub użyj menu Udostępnij w przeglądarce.";
+"feed.empty.favorites_1" = "Aby dodać artykuł do ulubionych, dotknij ";
+"feed.empty.favorites_2" = " podczas czytania lub przytrzymaj palec na karcie i wybierz „Dodaj do ulubionych”.";
+
+"bookmarks.addTitle" = "Dodaj zakładkę";
+"bookmarks.url" = "Adres strony";
+"bookmarks.errors.badURL" = "Wprowadź poprawny adres URL.";
+"bookmarks.errors.failedToGet" = "Nie udało się pobrać strony internetowej. Może być problem z połączeniem internetowym.";
+
+"date.today-at" = "Dzisiaj o ";
+"date.yesterday-at" = "Wczoraj o ";
+
+"settings.help" = "Pomoc";
+"settings.help.website" = "Strona internetowa";
+"settings.help.telegram" = "Telegram";
+"settings.help.email" = "E-mail";
+"settings.help.twitter" = "Twitter";
+"settings.help.blog" = "Blog";
+
+"settings.feed" = "Kanał";
+"settings.feed.display-images" = "Wyświetlaj obrazy";
+"settings.feed.trimTitles" = "Skracaj długie tytuły";
+"settings.feed.wide-images" = "Szerokie obrazy";
+"settings.feed.readWhileScrolling" = "Czytaj podczas przewijania";
+"settings.feed.readWhileScrolling.note" = "Automatycznie oznaczaj artykuły jako przeczytane.";
+"settings.feed.displayGalleries" = "Wyświetl galerie";
+"settings.feed.style.dynamic" = "Dynamiczny";
+"settings.feed.style.large" = "Duży";
+"settings.feed.style.small" = "Mały";
+
+"settings.theme" = "Motyw";
+"settings.theme.icon" = "Ikona aplikacji";
+"settings.theme.useRoundedFont" = "Zaokrąglona czcionka";
+
+"settings.article" = "Czytanie";
+"settings.article.viewer" = "Przeglądarka artykułów";
+"settings.article.viewer.note" = "Przeglądarka artykułów pozwala na czytanie artykułów bez przechodzenia do pełnej wersji strony internetowej.";
+"settings.article.in-app-browser" = "Przeglądarka w aplikacji";
+"settings.article.fullscreenBrowser" = "Pełnoekranowa przeglądarka";
+"settings.article.endlessReading" = "Bez końca";
+"settings.article.endlessReading.note.swipe" = "Przełączaj artykuły przesuwając palcem.";
+"settings.article.endlessReading.note.scroll" = "Przełączaj artykuły przewijając ekran.";
+"settings.article.fullScreenMode" = "Tryb pełnoekranowy";
+"settings.article.fullScreenMode.note" = "Ukryj pasek nawigacyjny podczas czytania.";
+"settings.article.appearance" = "Wygląd";
+
+"settings.browser" = "Przeglądarka";
+
+"settings.common" = "Ogólne";
+"settings.common.openAtStartup" = "Otwórz przy uruchamianiu";
+"settings.common.shareViaArtykul" = "Udostępnij przez Artykul";
+
+"settings.subscriptions" = "Subskrypcje";
+"settings.subscriptions.import" = "Importuj";
+"settings.subscriptions.export" = "Eksportuj";
+"settings.subscriptions.export-note" = "Format OPML jest obsługiwany. Eksport nie obejmuje polubionych artykułów i zakładek.";
+
+"settings.color" = "Kolor";
+
+"settings.storage" = "Pamięć";
+"settings.storage.used_space" = "Wykorzystana przestrzeń";
+"settings.storage.database" = "Baza danych";
+"settings.storage.database_media" = "Baza danych multimediów";
+"settings.storage.images_article" = "Obrazy artykułów";
+"settings.storage.images_all" = "Wszystkie obrazy";
+"settings.storage.used_space.note" = "Najnowsze artykuły są zawsze dostępne w aplikacji nawet bez dostępu do internetu. Starsze artykuły, poza ulubionymi i zakładkami, są usuwane w celu oszczędzania miejsca na dysku między uruchomieniami aplikacji.";
+
+"settings.storage.management" = "Zarządzanie";
+"settings.storage.max_articles" = "Artykuły z witryny";
+"settings.storage.remove_old_article" = "Usuń stare artykuły";
+
+"settings.storage.optimizeImageStorage" = "Optymalizuj pamięć";
+"settings.storage.optimizeImageStorageNote" = "Aplikacja konwertuje obrazy z artykułów na optymalne formaty i zmniejsza ich rozmiar nawet o 70%. Optymalizacja może wpłynąć na zużycie baterii.";
+
+"settings.storage.autoMediaDownload" = "Automatyczne pobieranie multimediów";
+"settings.storage.autoMediaDownloadNote" = "Gdy automatyczne pobieranie jest wyłączone, obrazy i inne pliki z artykułów będą pobierane tylko wtedy, gdy zostaną otwarte.";
+
+"settings.account" = "Konto";
+
+"settings.account.sync" = "Synchronizacja";
+"settings.account.syncNote" = "Wszystkie subskrypcje, foldery, ulubione artykuły i tak dalej będą automatycznie synchronizowane między Twoimi urządzeniami.";
+
+"settings.developer" = "Deweloper";
+"settings.articleDebug" = "Debugowanie artykułów";
+"settings.dropArticleLimit" = "Resetuj limit artykułów do 0";
+"settings.dropReview" = "Usuń recenzję";
+
+"settings.rate" = "Oceń Artykul";
+"settings.rate.note" = "Pomoże to innym ludziom dowiedzieć się o aplikacji. Jeśli masz problem, skontaktuj się z nami.";
+
+"auth.bigTitle" = "Jest bardziej przydatne z kontem";
+"auth.feature.sync" = "Synchronizacja";
+"auth.feature.sync.description" = "Źródła, ulubione i zakładki będą synchronizowane między urządzeniami Apple.";
+"auth.feature.notifications" = "Powiadomienia";
+"auth.feature.notifications.description" = "Będziesz mógł włączyć powiadomienia o nowych artykułach z wybranych źródeł.";
+"auth.feature.speed" = "Szybkość";
+"auth.feature.speed.description" = "Nasi jednorożce regularnie sprawdzają źródła i informują aplikację o dostępności nowych artykułów.";
+"auth.feature.privacy" = "Prywatność";
+"auth.feature.privacy.description" = "Nie prosimy o Twoje dane osobowe, takie jak adres e-mail, imię czy numer telefonu.";
+"auth.removeAccount" = "Usuń konto";
+
+"auth.removeAccount.title" = "Jesteś pewien?";
+"auth.removeAccount.description" = "Nie będziesz mógł otrzymywać powiadomień, synchronizacja przestanie działać, a wszystkie dane konta Artykul zostaną usunięte.";
+"auth.removeAccount.ok" = "Usuń konto";
+"auth.removeAccount.confirm.title" = "Jesteś absolutnie pewien?";
+"auth.removeAccount.confirm.description" = "Nie możemy cofnąć tej akcji, nawet jeśli bardzo chcemy.";
+"auth.removeAccount.confirm.ok" = "Tak, jestem pewien";
+
+"system-font" = "System";
+
+"actions.continue" = "Kontynuuj";
+"actions.mark-as-read" = "Oznacz jako przeczytane";
+"actions.delete" = "Usuń";
+"actions.share" = "Udostępnij";
+"actions.copy_url" = "Kopiuj link";
+"actions.copy_image" = "Kopiuj obraz";
+"actions.favorite" = "Ulubione";
+"actions.unfavorite" = "Usuń z ulubionych";
+"actions.open_website" = "Otwórz stronę internetową";
+"actions.edit" = "Edytuj";
+"actions.display-in-feed" = "Pokaż w kanale";
+"actions.dont-display-in-feed" = "Nie pokazuj w kanale";
+"actions.receive-notifications" = "Włącz powiadomienia";
+"actions.dont-receive-notifications" = "Wyłącz powiadomienia";
+"actions.open-in-browser" = "Otwórz w przeglądarce";
+"actions.reload" = "Odśwież";
+"actions.report" = "Zgłoś";
+"actions.report.spam" = "Spam";
+"actions.report.violence" = "Przemoc";
+"actions.report.pornography" = "Pornografia";
+"actions.report.child-abuse" = "Wykorzystywanie dzieci";
+"actions.report.copyright" = "Prawa autorskie";
+"actions.report.wrong-layout" = "Nieprawidłowy układ";
+
+"wrong-layout.success.title" = "Dziękujemy!";
+"wrong-layout.success.description" = "Sprawdzimy ten artykuł. Jeśli chcesz poznać status sprawdzenia, skontaktuj się z obsługą.";
+
+"notifications.grant-error.title" = "Błąd";
+"notifications.grant-error.message" = "Nie będziemy w stanie wysyłać powiadomień o nowych artykułach, jeśli nie udzielisz dostępu.";
+"notifications.grant-error.settings" = "Ustawienia";
+
+"proxy" = "Proxy";
+"proxy.description" = "Wszystkie twoje żądania będą przekierowywane przez nasze serwery. Właściciele witryn i sieci reklamowe nie będą w stanie cię śledzić. Nie możemy zagwarantować, że będziesz mógł uzyskać dostęp do dowolnej witryny przy tym ustawieniu.";
+
+"site-blocked.title" = "Strona zablokowana";
+"site-blocked.message" = "Niestety nie możemy wyświetlić artykułów tej witryny, ponieważ narusza ona nasze zasady lub twórcy witryny poprosili nas o to.";
+
+"appearance.example.header" = "Słońce właśnie wystrzeliło najpotężniejszą erupcję słoneczną od prawie pięciu lat";
+"appearance.example.paragraph_1" = "Słońce wystrzeliło potężną erupcję boczną w tym tygodniu. Erupcja pochodziła z plamy słonecznej na zachodnim brzegu naszej lokalnej gwiazdy i stanowi najpotężniejszą erupcję słoneczną od 2017 roku.";
+"appearance.example.paragraph_2" = "Obserwatorium Dynamiki Słońca NASA zaobserwowało wybuch o godzinie 20:57 czasu pacyficznego we wtorek, powodując zakłócenia radiowe dla niektórych krótkofalowych, lotniczych i innych komunikacji skupionych na Azji.";
+
+"folder.delete.description" = "Wszystkie subskrypcje zostaną przeniesione do folderu nieposortowanego.";
+
+"premium" = "Premium";
+"premium.title" = "Artykul Premium";
+"premium.restore" = "Przywróć zakupy";
+"premium.note" = "Subskrybuj i uzyskaj dostęp do dodatkowych funkcji oraz wesprzyj rozwój aplikacji.";
+"premium.thanks" = "Dziękujemy za wsparcie! Subskrypcja usuwa ograniczenia i daje dostęp do dodatkowych funkcji, takich jak foldery, ikony, kolory aplikacji i wyszukiwanie.";
+"premium.autoRenew.note" = "Plan automatycznie odnawia się, chyba że zostanie anulowany. Możesz anulować subskrypcję w dowolnym momencie, ale co najmniej 24 godziny przed obciążeniem.";
+"premium.feature.unlimited" = "Nieograniczone źródła i powiadomienia.";
+"premium.feature.customization" = "Kolory akcentu i ikony aplikacji.";
+"premium.feature.icons" = "Nieograniczone foldery i ikony.";
+"premium.feature.search" = "Wyszukaj artykuły z kanałów.";
+"premium.feature.support" = "Wesprzyj nasz mały zespół.";
+"premium.subscribe.monthly" = "Subskrybuj za %@/miesiąc";
+"premium.subscribe.monthly.note" = "Plan automatycznie odnawia się w cenie %@ miesięcznie, chyba że zostanie anulowany.";
+"premium.subscribe.annual" = "Subskrybuj za %@/rok";
+"premium.subscribe.annual.note" = "Plan automatycznie odnawia się w cenie %@ rocznie, chyba że zostanie anulowany.";
+"premium.manageSubscription" = "Zarządzaj subskrypcją";
+"premium.type" = "Typ";
+"premium.renews" = "Odnawia się";
+"premium.getHelp" = "Pomoc";
+"premium.active" = "Aktywny";
+"premium.redeemCode" = "Odbierz kod";
+"premium.freeTrial" = "Bezpłatny okres próbny dla";
+
+"premium.oneTime" = "Jednorazowo";
+"premium.oneTime.buyFor" = "Kup za %@";
+"premium.oneTime.note" = "Zakup jednorazowy.";
+
+"premium.searchRestricted.title" = "Ograniczenia w wyszukiwaniu";
+"premium.searchRestricted.description" = "Tylko użytkownicy premium mogą uzyskać pełne wyniki wyszukiwania.";
+"premium.searchRestricted.action" = "Dowiedz się więcej o premium";
+
+"hint.addSource.title" = "Dodaj swoje pierwsze źródło";
+"hint.addSource.text" = "Dotknij + i wpisz adres strony internetowej. Jeśli wcześniej skopiowałeś adres, pole zostanie wypełnione automatycznie.";
+
+"hint.limit.title" = "Osiągnąłeś limit 😱";
+"hint.limit.text" = "Aby kontynuować korzystanie z aplikacji bez ograniczeń, subskrybuj premium.";
+
+"onboarding.about.title" = "Hej!";
+"onboarding.about.text" = "Artykul to aplikacja, która umożliwia czytanie ulubionych witryn za pomocą RSS w jednym miejscu bez reklam, bałaganu i algorytmicznych kanałów informacyjnych.";
+
+"onboarding.about.features" = "Funkcje";
+"onboarding.about.features.sources.title" = "Źródła i foldery";
+"onboarding.about.features.sources.text" = "Subskrybuj strony internetowe, organizuj i czytaj je wszystkie w jednym miejscu.";
+"onboarding.about.features.viewer.title" = "Przeglądarka artykułów";
+"onboarding.about.features.viewer.text" = "Bądź zafascynowany treścią, a nie reklamami, wyskakującymi oknami i bałaganem.";
+"onboarding.about.features.favorites.title" = "Ulubione";
+"onboarding.about.features.favorites.text" = "Dodaj interesujące artykuły do ulubionych, aby mieć je zawsze pod ręką.";
+"onboarding.about.features.bookmarks.title" = "Zakładki";
+"onboarding.about.features.bookmarks.text" = "Jeśli strona nie ma kanału RSS, dodaj ją do zakładek, aby wrócić do niej później.";
+
+"onboarding.about.sign-in-later" = "Zaloguj się później";
+
+"onboarding.notifications.title" = "Otrzymuj powiadomienia";
+"onboarding.notifications.text" = "Możesz włączyć powiadomienia o nowych artykułach od Twoich ulubionych autorów.";
+"onboarding.notifications.allow" = "Zezwól na powiadomienia";
+
+"onboarding.discover.title" = "Kogo czytać?";
+"onboarding.discover.text" = "Obserwuj autorów, aby czytać ich posty w aplikacji. Możesz dodać dowolne źródła później.";
+
+"tip.supportedSources.title" = "Obsługiwane źródła";
+"tip.supportedSources.description" = "Możesz wstawić link do kanału RSS, profilu Mastodon, kanału Telegram oraz kanału YouTube.";
+
+"modal.delete.title" = "Jesteś pewien?";
+"modal.delete.description" = "Tej czynności nie można cofnąć.";
+"modal.delete.ok" = "Usuń";
+"modal.delete.cancel" = "Anuluj";
+
+"error.open-link" = "Nie udało się otworzyć linku, być może nie ma odpowiedniej aplikacji";
+"error.badURL" = "Nie udało się pobrać strony internetowej";
+"error.feedNotFound" = "Nie udało się znaleźć żadnego źródła na stronie";
+"error.failedToGetFeed.detailed" = "Nie udało się pobrać strony, sprawdź swoje połączenie internetowe.";
+"error.feedNotFound.detailed" = "Nie znaleziono kanałów na stronie. Spróbuj innej strony lub wprowadź bezpośredni link do kanału.";
+
+"error.network" = "Nie udało się połączyć z serwerem, spróbuj ponownie później.";
+"error.removeAccount.internalProblem" = "Nie udało się usunąć konta, spróbuj ponownie później lub skontaktuj się z pomocą techniczną.";
+
+"error.tts.unknownLanguage" = "Nie można wykryć języka artykułu.";
+"error.tts.unsupportedLanguage" = "Niestety, język nie jest obsługiwany.";
+"error.tts.commonError" = "Nie można przekonwertować artykułu na mowę.";
+
+
+"code.unknown" = "Wystąpił nieznany błąd. Proszę spróbować zaktualizować aplikację lub skontaktować się z pomocą techniczną.";
+"code.-1" = "Wystąpił błąd wewnętrzny";
+"code.1" = "Wywołano nieznany sposób";
+"code.2" = "Podano nieprawidłowe argumenty";
+"code.3" = "Niewystarczające uprawnienia";
+"code.4" = "Wymagane uwierzytelnienie";
+"code.5" = "Nie znaleziono";
+"code.6" = "Przekroczono limit";
+"code.101" = "Email już istnieje";
+"code.102" = "Nieprawidłowy format emaila";
+"code.103" = "Nieprawidłowy format hasła";
+"code.104" = "Nieprawidłowy lub wygasły token";
+"code.105" = "Błąd pobierania obrazu";
+"code.106" = "Nieprawidłowy format nazwy użytkownika";
+"code.107" = "Nazwa użytkownika już istnieje";
+"code.130" = "Treść publikacji jest pusta";
+"code.131" = "Nieprawidłowe obrazy do publikacji";
+
+"settings.account.profileInformation" = "Informacje o profilu";
+"settings.account.username" = "Nazwa użytkownika";
+"settings.account.username.note" = "Możesz używać liter a-z, cyfr 0-9 i znaków podkreślenia dla nazwy użytkownika. Minimalna długość to 5 znaków.";
+"settings.account.username.exists" = "Ta nazwa użytkownika jest już zajęta.";
+"settings.account.username.badFormat" = "Proszę sprawdzić swoją nazwę użytkownika.";
+"settings.account.name" = "Imię";
+"settings.account.photo" = "Zdjęcie";
+"settings.account.about" = "O sobie";
+"settings.account.about.note" = "Jakiekolwiek szczegóły takie jak wiek, zawód lub miasto.";
+"links" = "Linki";
+"link" = "Link";
+"publish" = "Opublikuj";
+"linkEditor.title" = "Tytuł";
+"linkEditor.text" = "Dodaj kilka szczegółów i #tagów";
+"linkEditor.addPhotos" = "Dodaj zdjęcia";
+"linkEditor.addLink" = "Dodaj link";
+"linkEditor.fromYourHistory" = "Z Twojej historii";
+"reply" = "Odpowiedz";
+"sendComment.placeholder" = "Komentarz...";
+"now" = "Teraz";
+"sendComment.reply" = "Odpowiedz %@";
+"save" = "Zapisz";
+"follow" = "Obserwuj";
+"following" = "Obserwowane";
+"unfollow" = "Przestań obserwować";
+"followers" = "Obserwujący";
+"notification.newFollowers" = "Nowi obserwujący";
+"notification.followedYou" = "%@ obserwuje Cię";
+"notification.mentionedYou" =  "%@ wspomniał o Tobie";
+"notification.repliedToYou" =  "%@ odpowiedział Tobie";
+"latest" = "Najnowsze";
+"trending" = "Popularne";
+"publishInLinks" = "Opublikuj w Linkach";
+"hide" = "Ukryj";
+"show" = "Pokaż";
+"settings.article.fixedSidebar" = "Stały pasek boczny";
+"settings.article.fixedSidebar.note" = "Gdy jest wystarczająco miejsca na ekranie";
+"type" = "Typ";
+"hashtag" = "Hasztag";
+"widget.links.description" = "Pokazuje najnowsze opublikowane linki";
+"articles" = "Artykuły";
+"widget.articles.description" = "Pokazuje najnowsze artykuły";

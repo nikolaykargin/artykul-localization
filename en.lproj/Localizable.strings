@@ -1,0 +1,363 @@
+"code" = "en";
+
+"auth.sign-in" = "Sign In";
+"auth.signOut" = "Sign Out";
+
+"tabBar.sources" = "Sources";
+"tabBar.favorites" = "Favorites";
+"tabBar.add-source" = "Add Source";
+"tabBar.settings" = "Settings";
+"tabBar.readingList" = "Reading List";
+"tabBar.bookmarks" = "Bookmarks";
+
+"add-source.url" = "Website or Feed URL";
+"add-source.submit" = "Add Source";
+
+"edit-source.title" = "Edit Source";
+"edit-source.submit" = "Save";
+"edit-source.articleViewerDisabled" = "Don’t Use Article Viewer";
+"edit-source.feedsNote" = "Multiple feeds can be linked to the same site. You can turn off updating an individual feed if it no longer interests you.";
+
+"folder.unsorted" = "Unsorted";
+
+"select-folder.create-new" = "Create New";
+"create-folder.title" = "Create Folder";
+"create-folder.name" = "Folder Fame";
+"edit-folder.title" = "Edit Folder";
+
+"delete" = "Delete";
+"remove" = "Remove";
+"cancel" = "Cancel";
+"create" = "Create";
+"today" = "Today";
+"yesterday" = "Yesterday";
+"feed" = "Feed";
+"feeds" = "Feeds";
+"recommendations" = "Recommendations";
+"author" = "Author";
+"done" = "Done";
+"folder" = "Folder";
+"website" = "Website";
+"subscribe" = "Subscribe";
+"unsubscribe" = "Unsubscribe";
+"tos" = "Terms of Use";
+"privacy-policy" = "Privacy Policy";
+"sources" = "Sources";
+"control-panel" = "Artykul CLI";
+"notNow" = "Not Now";
+"notifications" = "Notifications";
+"settings" = "Settings";
+
+"instagram" = "Instagram";
+"share.instagram.stories" = "Instagram Stories";
+
+"discover" = "Discover";
+"discover.suggestion" = "Suggestion";
+"discover.suggestion.note" = "You can suggest any site. We will carefully check the content of the site and possibly add it.";
+"discover.unsupported" = "Discover is not supported for your language or region. You can suggest your favorite sites by clicking the + at the top.";
+
+"categories" = "Categories";
+"search" = "Search";
+"search.results" = "Search Results";
+"search.articles.description" = "Search articles from your feed.";
+
+"feed.empty" = "Nothing to show yet.";
+"feed.error" = "Failed to get articles";
+"feed.empty.bookmarks_1" = "In this section, you can store sites that do not have a feed. To add a webpage to this list, tap ";
+"feed.empty.bookmarks_2" = " above, or use Share menu in browser.";
+"feed.empty.favorites_1" = "To add an article to favorites, tap ";
+"feed.empty.favorites_2" = " when reading, or hold your finger on the card and select “Add to Favorites”.";
+
+"bookmarks.addTitle" = "Add Bookmark";
+"bookmarks.url" = "Page URL";
+"bookmarks.errors.badURL" = "Please enter a valid url.";
+"bookmarks.errors.failedToGet" = "Failed to get web page. There may be a problem with your internet connection.";
+
+"date.today-at" = "Today at ";
+"date.yesterday-at" = "Yesterday at ";
+
+"settings.help" = "Help";
+"settings.help.website" = "Website";
+"settings.help.telegram" = "Telegram";
+"settings.help.email" = "Email";
+"settings.help.twitter" = "Twitter";
+"settings.help.blog" = "Blog";
+
+"settings.feed" = "Feed";
+"settings.feed.display-images" = "Display Images";
+"settings.feed.trimTitles" = "Trim Long Titles";
+"settings.feed.wide-images" = "Wide Images";
+"settings.feed.readWhileScrolling" = "Read While Scrolling";
+"settings.feed.readWhileScrolling.note" = "Automatically mark articles as read.";
+"settings.feed.displayGalleries" = "Display Galleries";
+"settings.feed.style.dynamic" = "Dynamic";
+"settings.feed.style.large" = "Large";
+"settings.feed.style.small" = "Small";
+
+"settings.theme" = "Theme";
+"settings.theme.icon" = "App Icon";
+"settings.theme.useRoundedFont" = "Rounded Font";
+
+"settings.article" = "Reading";
+"settings.article.viewer" = "Article Viewer";
+"settings.article.viewer.note" = "Article Viewer allows you to read articles without going to the full version of the web page.";
+"settings.article.in-app-browser" = "In-App Browser";
+"settings.article.fullscreenBrowser" = "Fullscreen Browser";
+"settings.article.endlessReading" = "Endless Reading";
+"settings.article.endlessReading.note.swipe" = "Switch articles by swiping.";
+"settings.article.endlessReading.note.scroll" = "Switch articles by scrolling.";
+"settings.article.fullScreenMode" = "Full Screen Mode";
+"settings.article.fullScreenMode.note" = "Hide navigation bar while reading.";
+"settings.article.appearance" = "Appearance";
+
+"settings.browser" = "Browser";
+
+"settings.common" = "Common";
+"settings.common.openAtStartup" = "Open at Startup";
+"settings.common.shareViaArtykul" = "Share via Artykul";
+
+"settings.subscriptions" = "Subscriptions";
+"settings.subscriptions.import" = "Import";
+"settings.subscriptions.export" = "Export";
+"settings.subscriptions.export-note" = "The OPML format is supported. The export does not include liked articles and bookmarks.";
+
+"settings.color" = "Color";
+
+"settings.storage" = "Storage";
+"settings.storage.used_space" = "Used Space";
+"settings.storage.database" = "Database";
+"settings.storage.database_media" = "Media Database";
+"settings.storage.images_article" = "Article Images";
+"settings.storage.images_all" = "All Images";
+"settings.storage.used_space.note" = "The latest articles are always available in the app even without internet access. Older articles, other than those in the favorites and bookmarks, are removed to save disk space between application launches.";
+
+"settings.storage.management" = "Management";
+"settings.storage.max_articles" = "Articles from the Site";
+"settings.storage.remove_old_article" = "Delete Old Articles";
+
+"settings.storage.optimizeImageStorage" = "Optimize Storage";
+"settings.storage.optimizeImageStorageNote" = "The application converts images from articles to optimal formats and reduces the size by up to 70%. Optimization can affect battery usage.";
+
+"settings.storage.autoMediaDownload" = "Automatic Download";
+"settings.storage.autoMediaDownloadNote" = "When automatic downloads are disabled, images and other files from articles will only be downloaded when they are opened.";
+
+"settings.account" = "Account";
+
+"settings.account.sync" = "Sync";
+"settings.account.syncNote" = "All your subscriptions, folders, favorite articles, and so on will be automatically synchronized between your devices.";
+
+"settings.developer" = "Developer";
+"settings.articleDebug" = "Article Debug";
+"settings.dropArticleLimit" = "Reset article limit to 0";
+"settings.dropReview" = "Drop review";
+
+"settings.rate" = "Rate Artykul";
+"settings.rate.note" = "This will help other people to know about the app. If you have a problem, please contact us.";
+
+"auth.bigTitle" = "It's More Useful With an Account";
+"auth.feature.sync" = "Sync";
+"auth.feature.sync.description" = "Sources, favorites and bookmarks will be synced across Apple devices.";
+"auth.feature.notifications" = "Notifications";
+"auth.feature.notifications.description" = "You will be able to enable notifications of new articles from selected sources.";
+"auth.feature.speed" = "Speed";
+"auth.feature.speed.description" = "Our unicorns regularly check sources and let the app know when new articles are available.";
+"auth.feature.privacy" = "Private";
+"auth.feature.privacy.description" = "We do not ask for your personal information such as email address, name or phone number.";
+"auth.removeAccount" = "Remove Account";
+
+"auth.removeAccount.title" = "Are you sure?";
+"auth.removeAccount.description" = "You will not be able to receive notifications, synchronization will stop working and all Artykul account data will be deleted.";
+"auth.removeAccount.ok" = "Remove Account";
+"auth.removeAccount.confirm.title" = "Are you absolutely sure?";
+"auth.removeAccount.confirm.description" = "We can't undo this action even if we really want to.";
+"auth.removeAccount.confirm.ok" = "Yes, I'm sure";
+
+"system-font" = "System";
+
+"actions.continue" = "Continue";
+"actions.mark-as-read" = "Mark as Read";
+"actions.delete" = "Delete";
+"actions.share" = "Share";
+"actions.copy_url" = "Copy Link";
+"actions.copy_image" = "Copy Image";
+"actions.favorite" = "Favorite";
+"actions.unfavorite" = "Unfavorite";
+"actions.open_website" = "Open Website";
+"actions.edit" = "Edit";
+"actions.display-in-feed" = "Show in Feed";
+"actions.dont-display-in-feed" = "Don't Show in Feed";
+"actions.receive-notifications" = "Enable Notifications";
+"actions.dont-receive-notifications" = "Disable Notifications";
+"actions.open-in-browser" = "Open in Browser";
+"actions.reload" = "Reload";
+"actions.report" = "Report";
+"actions.report.spam" = "Spam";
+"actions.report.violence" = "Violence";
+"actions.report.pornography" = "Pornography";
+"actions.report.child-abuse" = "Child Abuse";
+"actions.report.copyright" = "Copyright";
+"actions.report.wrong-layout" = "Wrong Layout";
+
+"wrong-layout.success.title" = "Thank you!";
+"wrong-layout.success.description" = "We will check this article. If you want to know the status of the check, please contact support.";
+
+"notifications.grant-error.title" = "Error";
+"notifications.grant-error.message" = "We will not be able to send notifications about new articles if you do not grant access.";
+"notifications.grant-error.settings" = "Settings";
+
+"proxy" = "Proxy";
+"proxy.description" = "All your requests will be proxied through our servers. Site owners and ad networks won't be able to track you. We cannot guarantee that you will be able to access any site with this setting.";
+
+"site-blocked.title" = "Site blocked";
+"site-blocked.message" = "Unfortunately, we can not display the articles of this site, as it violates our rules or the creators of the site asked us to do so.";
+
+"appearance.example.header" = "The Sun Just Unleashed the Strongest Solar Flare in Almost Five Years";
+"appearance.example.paragraph_1" = "The sun unleashed a powerful side flare this week. The eruption came from a sunspot on the western limb of our local star, and represents the most powerful solar flare seen since 2017.";
+"appearance.example.paragraph_2" = "NASA's Solar Dynamics Observatory observed the blast at 8:57 p.m. PT on Tuesday, causing a radio blackout for certain shortwave, aviation and other communications centered on Asia.";
+
+"folder.delete.description" = "All subscriptions will be moved to the unsorted folder.";
+
+
+
+
+"premium" = "Premium";
+"premium.title" = "Artykul Premium";
+"premium.restore" = "Restore Purchases";
+"premium.note" = "Subscribe and get access to additional features and support future development.";
+"premium.thanks" = "Thanks for your support! A subscription removes limits and gives you access to additional features such as folders, icons, app colors, and search.";
+"premium.autoRenew.note" = "Plan auto-renews until cancelled. You can cancel your subscription at any time, but at least 24 hours before being charged.";
+"premium.feature.unlimited" = "Unlimited sources and notifications.";
+"premium.feature.customization" = "Accent colors and app icons.";
+"premium.feature.icons" = "Unlimited folders and icons.";
+"premium.feature.search" = "Search for articles from feeds.";
+"premium.feature.support" = "Support our small team.";
+"premium.subscribe.monthly" = "Subscribe for %@/month";
+"premium.subscribe.monthly.note" = "Plan auto-renews at %@ per month until cancelled.";
+"premium.subscribe.annual" = "Subscribe for %@/year";
+"premium.subscribe.annual.note" = "Plan auto-renews at %@ per year until cancelled.";
+"premium.manageSubscription" = "Manage Subscription";
+"premium.type" = "Type";
+"premium.renews" = "Renews";
+"premium.getHelp" = "Get Help";
+"premium.active" = "Active";
+"premium.redeemCode" = "Redeem Code";
+"premium.freeTrial" = "Free trial for";
+
+"premium.oneTime" = "One time";
+"premium.oneTime.buyFor" = "Buy for %@";
+"premium.oneTime.note" = "One time purchase.";
+
+"premium.searchRestricted.title" = "Search are limited";
+"premium.searchRestricted.description" = "Only premium users can get all search results.";
+"premium.searchRestricted.action" = "Learn about premium";
+
+"hint.addSource.title" = "Add your first source";
+"hint.addSource.text" = "Touch + and enter the website address. If you have previously copied the adress, the field will be filled in automatically.";
+
+"hint.limit.title" = "You have reached the limit 😱";
+"hint.limit.text" = "To continue using the application without restrictions, subscribe to the premium.";
+
+"onboarding.about.title" = "Hey!";
+"onboarding.about.text" = "Artykul is an app that allows you to read your favorite sites via RSS in one place without ads, clutter, and algorithmic newsfeeds.";
+
+"onboarding.about.features" = "Features";
+"onboarding.about.features.sources.title" = "Sources and Folders";
+"onboarding.about.features.sources.text" = "Subscribe to websites, organize, and read them all in one place.";
+"onboarding.about.features.viewer.title" = "Article Viewer";
+"onboarding.about.features.viewer.text" = "Be captivated by content, not ads, pop-ups and clutter.";
+"onboarding.about.features.favorites.title" = "Favorites";
+"onboarding.about.features.favorites.text" = "Add interesting articles to your favorites to keep them handy.";
+"onboarding.about.features.bookmarks.title" = "Bookmarks";
+"onboarding.about.features.bookmarks.text" = "If the site doesn't have a feed, bookmark it to come back later.";
+
+"onboarding.about.sign-in-later" = "Sign in Later";
+
+"onboarding.notifications.title" = "Get Notified";
+"onboarding.notifications.text" = "You can turn on notifications for new articles by your favorite authors.";
+"onboarding.notifications.allow" = "Allow Notifications";
+
+"onboarding.discover.title" = "Who to Read?";
+"onboarding.discover.text" = "Follow authors to read their posts in the app. You can add any sources later.";
+
+"modal.delete.title" = "Are you sure?";
+"modal.delete.description" = "The action cannot be undone.";
+"modal.delete.ok" = "Delete";
+"modal.delete.cancel" = "Cancel";
+
+"tip.supportedSources.title" = "Supported Sources";
+"tip.supportedSources.description" = "You can insert a link to the RSS feed, Mastodon profile, Telegram channel, and YouTube channel.";
+
+"error.open-link" = "Couldn't open the link, maybe there is no suitable application";
+"error.badURL" = "Failed to get web page";
+"error.feedNotFound" = "Could not find any source on the page";
+"error.failedToGetFeed.detailed" = "Failed to retrieve the page, please check your internet connection.";
+"error.feedNotFound.detailed" = "No feeds found on the page. Please try another page or try entering a direct feed link.";
+
+"error.network" = "Failed to connect to the server, please try again later.";
+"error.removeAccount.internalProblem" = "Failed to delete account, please try later or contact support.";
+
+"error.tts.unknownLanguage" = "Unable to detect the language of the article.";
+"error.tts.unsupportedLanguage" = "Unfortunately, the language is not supported.";
+"error.tts.commonError" = "Unable to convert article to speech.";
+
+
+"code.unknown" = "An unknown error occurred. Please try updating the app or contact support.";
+"code.-1" = "Internal error occurred";
+"code.1" = "Unknown method called";
+"code.2" = "Invalid arguments provided";
+"code.3" = "Insufficient permissions";
+"code.4" = "Authentication required";
+"code.5" = "Not found";
+"code.6" = "Limit exceeded";
+"code.101" = "Email already exists";
+"code.102" = "Invalid email format";
+"code.103" = "Invalid password format";
+"code.104" = "Invalid or expired token";
+"code.105" = "Error downloading image";
+"code.106" = "Incorrect username format";
+"code.107" = "Username already exists";
+"code.130" = "Publication content is empty";
+"code.131" = "Incorrect images for publication";
+
+"settings.account.profileInformation" = "Profile Information";
+"settings.account.username" = "Username";
+"settings.account.username.note" = "You can use a-z, 0-9 and underscores for username. Minimum length is 5 characters.";
+"settings.account.username.exists" = "This username is already taken.";
+"settings.account.username.badFormat" = "Please check your username.";
+"settings.account.name" = "Name";
+"settings.account.photo" = "Photo";
+"settings.account.about" = "About";
+"settings.account.about.note" = "Any details such as age, occupation or city.";
+"links" = "Links";
+"link" = "Link";
+"publish" = "Publish";
+"linkEditor.title" = "Title";
+"linkEditor.text" = "Add some details and #tags";
+"linkEditor.addPhotos" = "Add Photos";
+"linkEditor.addLink" = "Add Link";
+"linkEditor.fromYourHistory" = "From your history";
+"reply" = "Reply";
+"sendComment.placeholder" = "Comment...";
+"now" = "Now";
+"sendComment.reply" = "Reply to %@";
+"save" = "Save";
+"follow" = "Follow";
+"following" = "Following";
+"unfollow" = "Unfollow";
+"followers" = "Followers";
+"notification.newFollowers" = "New followers";
+"notification.followedYou" = "%@ followed you";
+"notification.mentionedYou" =  "%@ mentioned you";
+"notification.repliedToYou" =  "%@ replied to you";
+"latest" = "Latest";
+"trending" = "Trending";
+"publishInLinks" = "Publish in Links";
+"hide" = "Hide";
+"show" = "Show";
+"settings.article.fixedSidebar" = "Fixed Sidebar";
+"settings.article.fixedSidebar.note" = "When there is enough space on the screen";
+"type" = "Type";
+"hashtag" = "Hashtag";
+"widget.links.description" = "Shows the latest published links";
+"articles" = "Articles";
+"widget.articles.description" = "Shows the latest articles";
