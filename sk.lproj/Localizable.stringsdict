@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>counter.followers</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@followers@</string>
+            <key>followers</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>one</key>
+                <string>%d sledovateľ</string>
+                <key>few</key>
+                <string>%d sledovatelia</string>
+                <key>many</key>
+                <string>%d sledovateľov</string>
+                <key>other</key>
+                <string>%d sledovateľov</string>
+            </dict>
+        </dict>
+        <key>counter.following</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@following@</string>
+            <key>following</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>one</key>
+                <string>%d sledovaný</string>
+                <key>few</key>
+                <string>%d sledovaní</string>
+                <key>many</key>
+                <string>%d sledovaných</string>
+                <key>other</key>
+                <string>%d sledovaných</string>
+            </dict>
+        </dict>
+        <key>notification.followersCount</key>
+        <dict>
+            <key>NSStringLocalizedFormatKey</key>
+            <string>%#@value@</string>
+            <key>value</key>
+            <dict>
+                <key>NSStringFormatSpecTypeKey</key>
+                <string>NSStringPluralRuleType</string>
+                <key>NSStringFormatValueTypeKey</key>
+                <string>d</string>
+                <key>zero</key>
+                <string>Nikto ťa nesleduje</string>
+                <key>one</key>
+                <string>%d užívateľ ťa sleduje</string>
+                <key>few</key>
+                <string>%d užívatelia ťa sledujú</string>
+                <key>many</key>
+                <string>%d užívateľov ťa sleduje</string>
+                <key>other</key>
+                <string>%d užívateľov ťa sleduje</string>
+            </dict>
+        </dict>
+    </dict>
+</plist>
