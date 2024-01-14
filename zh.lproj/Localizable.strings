@@ -245,7 +245,7 @@
 
 "premium.oneTime" = "一次性";
 "premium.oneTime.buyFor" = "购买%@";
-"premium.oneTime.note" = "一次性购买。"
+"premium.oneTime.note" = "一次性购买。";
 
 "premium.searchRestricted.title" = "搜索功能受限";
 "premium.searchRestricted.description" = "只有premium用户可以获取所有搜索结果。";
