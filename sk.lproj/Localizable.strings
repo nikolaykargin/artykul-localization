@@ -51,10 +51,10 @@
 "instagram" = "Instagram";
 "share.instagram.stories" = "Instagram príbehy";
 
-"discover" = "Objaviť";
+"discover" = "Objavovať";
 "discover.suggestion" = "Návrh";
 "discover.suggestion.note" = "Môžeš navrhnúť ľubovoľnú stránku. Obsah stránky starostlivo skontrolujeme a prípadne pridáme.";
-"discover.unsupported" = "Objaviť nie je podporované pre tvoj jazyk alebo región. Svoje obľúbené stránky môžeš navrhnúť kliknutím na + v hornej časti.";
+"discover.unsupported" = "Objavovať nie je podporované pre tvoj jazyk alebo región. Svoje obľúbené stránky môžeš navrhnúť kliknutím na + v hornej časti.";
 
 "categories" = "Kategórie";
 "search" = "Hľadať";
@@ -87,7 +87,7 @@
 "settings.feed.display-images" = "Zobraziť obrázky";
 "settings.feed.trimTitles" = "Orezať dlhé názvy";
 "settings.feed.wide-images" = "Široké obrázky";
-"settings.feed.readWhileScrolling" = "Čítať počas posúvania";
+"settings.feed.readWhileScrolling" = "Prečítať posúvaním";
 "settings.feed.readWhileScrolling.note" = "Automaticky označiť články ako prečítané.";
 "settings.feed.displayGalleries" = "Zobraziť galérie";
 "settings.feed.style.dynamic" = "Dynamický";
@@ -152,7 +152,7 @@
 "settings.dropReview" = "Zanechať recenziu";
 
 "settings.rate" = "Ohodnotiť Artykul";
-"settings.rate.note" = "Pomôže to ostatným dozvedieť sa o aplikácii. Ak máš problém, kontaktuj nás.";
+"settings.rate.note" = "Pomôže to ostatným dozvedieť sa o aplikácii. Ak máš problém, kontaktuj nás, prosím.";
 
 "auth.bigTitle" = "Získaj viac s účtom";
 "auth.feature.sync" = "Synchronizácia";
@@ -228,7 +228,7 @@
 "premium.autoRenew.note" = "Plán sa automaticky obnovuje, kým sa nezruší. Predplatné môžeš zrušiť kedykoľvek, ale najneskôr 24 hodín pred jeho účtovaním.";
 "premium.feature.unlimited" = "Neobmedzené zdroje a upozornenia.";
 "premium.feature.customization" = "Farby akcentu a ikony aplikácií.";
-"premium.feature.icons" = "Neobmedzený počet priečinkov a ikon.";
+"premium.feature.icons" = "Neobmedzené priečinky a ikony.";
 "premium.feature.search" = "Vyhľadávanie článkov z feedov.";
 "premium.feature.support" = "Podpor náš malý tím.";
 "premium.subscribe.monthly" = "Predplatné za %@/mesiac";
@@ -319,7 +319,7 @@
 "code.130" = "Zverejňovaný obsah je prázdny";
 "code.131" = "Nesprávne obrázky na zverejnenie";
 
-"settings.account.profileInformation" = "Informácie o profile";
+"settings.account.profileInformation" = "Profil";
 "settings.account.username" = "Používateľské meno";
 "settings.account.username.note" = "Pre používateľské meno môžeš použiť a-z, 0-9 a podčiarkovníky. Minimálna dĺžka je 5 znakov.";
 "settings.account.username.exists" = "Toto používateľské meno je už obsadené.";
@@ -327,7 +327,7 @@
 "settings.account.name" = "Meno";
 "settings.account.photo" = "Fotka";
 "settings.account.about" = "O Tebe";
-"settings.account.about.note" = "Akékoľvek údaje, napríklad vek, povolanie alebo mesto.";
+"settings.account.about.note" = "Akékoľvek údaje, napr. vek, povolanie alebo mesto.";
 "links" = "Odkazy";
 "link" = "Odkaz";
 "publish" = "Zverejniť";
