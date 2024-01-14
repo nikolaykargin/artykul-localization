@@ -36,6 +36,7 @@ current_directory = os.getcwd()
 find_strings_files(current_directory)
 
 all_keys = set.union(*language_keys.values())
+errors = False
 
 for language, keys in language_keys.items():
     missing_keys = all_keys - keys
@@ -45,8 +46,12 @@ for language, keys in language_keys.items():
         print(f"Missing keys in '{language}' localization:")
         for key in missing_keys:
             print(f"  - {key}")
+            errors = True
 
     if extra_keys:
         print(f"Extra keys in '{language}' localization:")
         for key in extra_keys:
             print(f"  - {key}")
+            errors = True
+
+exit(errors)
