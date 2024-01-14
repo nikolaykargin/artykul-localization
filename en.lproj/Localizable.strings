@@ -22,7 +22,7 @@
 
 "select-folder.create-new" = "Create New";
 "create-folder.title" = "Create Folder";
-"create-folder.name" = "Folder Fame";
+"create-folder.name" = "Folder Name";
 "edit-folder.title" = "Edit Folder";
 
 "delete" = "Delete";
