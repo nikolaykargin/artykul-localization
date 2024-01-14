@@ -12,42 +12,41 @@ def extract_keys(file_path):
             for line in content.splitlines():
                 match = re.match(r'\s*"(.*?)"\s*=\s*".*?";', line)
                 if match:
-                    key = match.group(1)
-                    keys.add(key)
+                    keys.add(match.group(1))
     except UnicodeDecodeError as e:
         print(f"Error decoding file '{file_path}': {str(e)}")
     return keys
 
-first_file_keys = set()
+def get_language_from_path(file_path):
+    match = re.search(r'\/([a-zA-Z\-_]+)\.lproj\/', file_path)
+    return match.group(1) if match else None
 
-file_paths = []
-file_keys = defaultdict(set)
+language_keys = defaultdict(set)
 
 def find_strings_files(path):
     for root, _, files in os.walk(path):
         for filename in files:
             if filename.endswith('.strings'):
                 file_path = os.path.join(root, filename)
-                file_paths.append(file_path)
-                keys = extract_keys(file_path)
-                if not first_file_keys:
-                    first_file_keys.update(keys)
-                file_keys[file_path] = keys
+                language = get_language_from_path(file_path)
+                if language:
+                    language_keys[language].update(extract_keys(file_path))
 
 current_directory = os.getcwd()
 find_strings_files(current_directory)
 
-for file_path in file_paths:
-    if file_path in file_keys:  
-        missing_keys = first_file_keys - file_keys[file_path]
-        new_keys = file_keys[file_path] - first_file_keys
+all_keys = set.union(*language_keys.values())
 
-        if missing_keys:
-            print(f"Missing keys in file '{file_path}':")
-            for key in missing_keys:
-                print(f"  - {key}")
+for language, keys in language_keys.items():
+    missing_keys = all_keys - keys
+    extra_keys = keys - all_keys
 
-        if new_keys:
-            print(f"Unknown keys in file '{file_path}':")
-            for key in new_keys:
-                print(f"  - {key}")
+    if missing_keys:
+        print(f"Missing keys in '{language}' localization:")
+        for key in missing_keys:
+            print(f"  - {key}")
+
+    if extra_keys:
+        print(f"Extra keys in '{language}' localization:")
+        for key in extra_keys:
+            print(f"  - {key}")
