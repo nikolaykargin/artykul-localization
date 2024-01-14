@@ -6,6 +6,7 @@ import shutil
 
 def copy_localization_folders(source_dir):
     for root, dirs, files in os.walk(source_dir):
+        dirs[:] = [d for d in dirs if not d.endswith('.storyboard')]
         for directory in dirs:
             if directory.endswith('.lproj'):
                 localization_dir = os.path.join(root, directory)
@@ -14,6 +15,7 @@ def copy_localization_folders(source_dir):
                         if file.endswith(('.strings', '.stringsdict')):
                             source_file_path = os.path.join(localization_dir, file)
                             target_file_path = os.path.join(os.getcwd(), directory, file)
+                            print(source_file_path)
                             os.makedirs(os.path.dirname(target_file_path), exist_ok=True)
                             shutil.copy2(source_file_path, target_file_path)
 
@@ -29,4 +31,4 @@ if __name__ == "__main__":
         sys.exit(1)
 
     copy_localization_folders(source_dir)
-    print(f"Localization folders copied from '{source_dir}' to current directory.")
+    print(f"Localization folders copied from '{source_dir}' to the current directory.")
