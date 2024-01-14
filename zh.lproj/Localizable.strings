@@ -3,24 +3,24 @@
 "auth.sign-in" = "登录";
 "auth.signOut" = "登出";
 
-"tabBar.sources" = "来源";
+"tabBar.sources" = "订阅源";
 "tabBar.favorites" = "收藏";
-"tabBar.add-source" = "添加来源";
+"tabBar.add-source" = "添加订阅源";
 "tabBar.settings" = "设置";
 "tabBar.readingList" = "阅读列表";
 "tabBar.bookmarks" = "书签";
 
 "add-source.url" = "网站或Feed URL";
-"add-source.submit" = "添加来源";
+"add-source.submit" = "添加订阅源";
 
-"edit-source.title" = "编辑来源";
+"edit-source.title" = "编辑订阅源";
 "edit-source.submit" = "保存";
-"edit-source.articleViewerDisabled" = "不使用文章查看器";
+"edit-source.articleViewerDisabled" = "禁用阅读模式";
 "edit-source.feedsNote" = "可以将多个feed链接到同一站点。如果你对某个feed不再感兴趣，可以关闭它的更新。";
 
 "folder.unsorted" = "未分类";
 
-"select-folder.create-new" = "创建新的";
+"select-folder.create-new" = "新建";
 "create-folder.title" = "创建文件夹";
 "create-folder.name" = "文件夹名";
 "edit-folder.title" = "编辑文件夹";
@@ -33,7 +33,7 @@
 "yesterday" = "昨天";
 "feed" = "Feed";
 "feeds" = "Feeds";
-"recommendations" = "推荐";
+"recommendations" = "建议";
 "author" = "作者";
 "done" = "完成";
 "folder" = "文件夹";
@@ -42,7 +42,7 @@
 "unsubscribe" = "取消订阅";
 "tos" = "使用条款";
 "privacy-policy" = "隐私政策";
-"sources" = "来源";
+"sources" = "订阅源";
 "control-panel" = "Artykul CLI";
 "notNow" = "现在不";
 "notifications" = "通知";
@@ -59,7 +59,7 @@
 "categories" = "分类";
 "search" = "搜索";
 "search.results" = "搜索结果";
-"search.articles.description" = "从你的feed中搜索文章。";
+"search.articles.description" = "从你的订阅源中搜索文章。";
 
 "feed.empty" = "暂无内容显示。";
 "feed.error" = "获取文章失败";
@@ -83,43 +83,43 @@
 "settings.help.twitter" = "Twitter";
 "settings.help.blog" = "博客";
 
-"settings.feed" = "Feed";
+"settings.feed" = "订阅源";
 "settings.feed.display-images" = "显示图片";
-"settings.feed.trimTitles" = "修剪长标题";
+"settings.feed.trimTitles" = "精简标题";
 "settings.feed.wide-images" = "宽图片";
 "settings.feed.readWhileScrolling" = "滚动阅读";
 "settings.feed.readWhileScrolling.note" = "自动标记文章为已读。";
-"settings.feed.displayGalleries" = "显示画廊";
-"settings.feed.style.dynamic" = "动态";
-"settings.feed.style.large" = "大";
-"settings.feed.style.small" = "小";
+"settings.feed.displayGalleries" = "显示画报";
+"settings.feed.style.dynamic" = "动态显示";
+"settings.feed.style.large" = "精美画报模式";
+"settings.feed.style.small" = "缩略图模式";
 
-"settings.theme" = "Theme";
-"settings.theme.icon" = "App Icon";
-"settings.theme.useRoundedFont" = "Rounded Font";
+"settings.theme" = "主题";
+"settings.theme.icon" = "App 图标";
+"settings.theme.useRoundedFont" = "浑圆字体";
 
 "settings.article" = "阅读";
-"settings.article.viewer" = "文章查看器";
-"settings.article.viewer.note" = "文章查看器允许您在不访问网页完整版本的情况下阅读文章。";
+"settings.article.viewer" = "阅读模式";
+"settings.article.viewer.note" = "阅读模式允许您在不访问网页完整版本的情况下阅读文章。";
 "settings.article.in-app-browser" = "应用内浏览器";
 "settings.article.fullscreenBrowser" = "全屏浏览器";
-"settings.article.endlessReading" = "无尽阅读";
+"settings.article.endlessReading" = "文章";
 "settings.article.endlessReading.note.swipe" = "通过滑动切换文章。";
 "settings.article.endlessReading.note.scroll" = "通过滚动切换文章。";
 "settings.article.fullScreenMode" = "全屏模式";
 "settings.article.fullScreenMode.note" = "阅读时隐藏导航栏。";
 "settings.article.appearance" = "外观";
 
-"settings.browser" = "Browser";
+"settings.browser" = "浏览器";
 
 "settings.common" = "Common";
-"settings.common.openAtStartup" = "Open at Startup";
-"settings.common.shareViaArtykul" = "Share via Artykul";
+"settings.common.openAtStartup" = "启动时打开";
+"settings.common.shareViaArtykul" = "分享至Artykul";
 
-"settings.subscriptions" = "Subscriptions";
-"settings.subscriptions.import" = "Import";
-"settings.subscriptions.export" = "Export";
-"settings.subscriptions.export-note" = "The OPML format is supported. The export does not include liked articles and bookmarks.";
+"settings.subscriptions" = "订阅";
+"settings.subscriptions.import" = "导入";
+"settings.subscriptions.export" = "导出";
+"settings.subscriptions.export-note" = "支持 OPML 格式导入。导出内容不包括收藏的文章和书签。";
 
 "settings.color" = "颜色";
 
@@ -129,14 +129,14 @@
 "settings.storage.database_media" = "媒体数据库";
 "settings.storage.images_article" = "文章图片";
 "settings.storage.images_all" = "所有图片";
-"settings.storage.used_space.note" = "即使没有互联网访问，最新的文章总是可以在应用中获取。除了收藏夹和书签中的文章，为了在应用启动之间节省磁盘空间，旧文章将被删除。";
+"settings.storage.used_space.note" = "即使在没有互联网接入的情况下，应用程序也能随时提供最新文章。除收藏夹和书签中的文章外，较旧的文章会被删除，以节省应用程序启动时的磁盘空间。";
 
 "settings.storage.management" = "管理";
 "settings.storage.max_articles" = "站点的文章";
 "settings.storage.remove_old_article" = "删除旧文章";
 
 "settings.storage.optimizeImageStorage" = "优化存储";
-"settings.storage.optimizeImageStorageNote" = "应用程序将文章的图片转换为最优格式，并减小尺寸高达70%。优化可能会影响电池使用。";
+"settings.storage.optimizeImageStorageNote" = "该应用程序可将文章中的图片转换为最佳格式，并将图片大小最多缩小 70%。优化会影响电池使用。";
 
 "settings.storage.autoMediaDownload" = "自动下载";
 "settings.storage.autoMediaDownloadNote" = "当禁用自动下载时，只有在打开文章时才会下载图片和其他文件。";
@@ -148,31 +148,31 @@
 
 "settings.developer" = "开发者";
 "settings.articleDebug" = "文章调试";
-"settings.dropArticleLimit" = "重置文章限制为0";
+"settings.dropArticleLimit" = "将文章数量限制重置为 0";
 "settings.dropReview" = "放弃审查";
 
 "settings.rate" = "评价 Artykul";
 "settings.rate.note" = "这将帮助其他人了解这个应用。如果您有问题，请联系我们。";
 
-"auth.bigTitle" = "有账户更有用";
+"auth.bigTitle" = "拥有账户将更有助于使用app";
 "auth.feature.sync" = "同步";
 "auth.feature.sync.description" = "来源、收藏和书签将在Apple设备间同步。";
 "auth.feature.notifications" = "通知";
-"auth.feature.notifications.description" = "您将能够启用来自选定来源的新文章通知。";
-"auth.feature.speed" = "速度";
-"auth.feature.speed.description" = "我们的独角兽会定期检查来源，并在有新文章时通知应用。";
-"auth.feature.privacy" = "私密";
+"auth.feature.notifications.description" = "您可以启用所选来源的新文章通知。";
+"auth.feature.speed" = "更新频率";
+"auth.feature.speed.description" = "我们的服务器会定期更新订阅源，并在有新文章时通知应用。";
+"auth.feature.privacy" = "隐私条约";
 "auth.feature.privacy.description" = "我们不会要求您提供个人信息，如电子邮件地址、姓名或电话号码。";
 "auth.removeAccount" = "删除账户";
 
 "auth.removeAccount.title" = "你确定吗？";
-"auth.removeAccount.description" = "您将无法接收通知，同步将停止工作，所有Artykul账户数据将被删除。";
+"auth.removeAccount.description" = "您将无法接收通知，同步将停止工作，所有Artykul账户数据也将被删除。";
 "auth.removeAccount.ok" = "删除账户";
 "auth.removeAccount.confirm.title" = "你真的确定吗？";
-"auth.removeAccount.confirm.description" = "即使我们真的想要，我们也无法撤销此操作。";
+"auth.removeAccount.confirm.description" = "即使我们很想，也无法撤销此操作。";
 "auth.removeAccount.confirm.ok" = "是的，我确定";
 
-"system-font" = "系统";
+"system-font" = "系统字体大小";
 
 "actions.continue" = "继续";
 "actions.mark-as-read" = "标记为已读";
@@ -194,21 +194,21 @@
 "actions.report.spam" = "垃圾邮件";
 "actions.report.violence" = "暴力";
 "actions.report.pornography" = "色情";
-"actions.report.child-abuse" = "虐待儿童";
-"actions.report.copyright" = "版权";
+"actions.report.child-abuse" = "儿童虐待";
+"actions.report.copyright" = "侵权";
 "actions.report.wrong-layout" = "错误的布局";
 
 "wrong-layout.success.title" = "谢谢！";
-"wrong-layout.success.description" = "我们将检查这篇文章。如果你想知道检查的状态，请联系支持。";
+"wrong-layout.success.description" = "我们将检查这篇文章。如果你想知道最新状态，请联系支持。";
 
 "notifications.grant-error.title" = "错误";
 "notifications.grant-error.message" = "如果你不授予访问权限，我们将无法发送新文章的通知。";
 "notifications.grant-error.settings" = "设置";
 
 "proxy" = "代理";
-"proxy.description" = "您的所有请求都将通过我们的服务器代理。网站所有者和广告网络将无法追踪你。我们不能保证你能够访问任何设置的网站。";
+"proxy.description" = "您的所有请求都将通过我们的服务器进行代理。网站所有者和广告网络将无法跟踪您。我们不能保证您能通过此设置访问任何网站。";
 
-"site-blocked.title" = "网站被阻止";
+"site-blocked.title" = "禁止访问此网站";
 "site-blocked.message" = "很遗憾，我们不能显示这个网站的文章，因为它违反了我们的规则，或者网站的创建者要求我们这样做。";
 
 "appearance.example.header" = "太阳刚刚释放了近五年来最强的太阳耀斑";
@@ -225,12 +225,12 @@
 "premium.restore" = "恢复购买";
 "premium.note" = "订阅并获取额外功能以及支持未来的开发。";
 "premium.thanks" = "感谢您的支持！订阅可以移除限制，并让您访问额外的功能，如文件夹、图标、应用颜色和搜索。";
-"premium.autoRenew.note" = "计划会自动续订，直到取消。您可以随时取消订阅，但至少需要在被收费前24小时取消。";
-"premium.feature.unlimited" = "无限的源和通知。";
+"premium.autoRenew.note" = "本订阅计划会自动续订，直到您主动取消。您可以在下一次订阅收费的24小时前，随时主动取消订阅。";
+"premium.feature.unlimited" = "无限制的订阅源和通知。";
 "premium.feature.customization" = "强调色和应用图标。";
 "premium.feature.icons" = "无限的文件夹和图标。";
-"premium.feature.search" = "从源中搜索文章。";
-"premium.feature.support" = "支持我们的小团队。";
+"premium.feature.search" = "从订阅列表中搜索文章。";
+"premium.feature.support" = "支持我们的团队。";
 "premium.subscribe.monthly" = "订阅%@/月";
 "premium.subscribe.monthly.note" = "计划会以%@每月的价格自动续订，直到取消。";
 "premium.subscribe.annual" = "订阅%@/年";
@@ -239,7 +239,7 @@
 "premium.type" = "类型";
 "premium.renews" = "续订";
 "premium.getHelp" = "获取帮助";
-"premium.active" = "活跃";
+"premium.active" = "高级会员";
 "premium.redeemCode" = "兑换代码";
 "premium.freeTrial" = "免费试用";
 
@@ -247,24 +247,24 @@
 "premium.oneTime.buyFor" = "购买%@";
 "premium.oneTime.note" = "一次性购买。"
 
-"premium.searchRestricted.title" = "搜索受限";
+"premium.searchRestricted.title" = "搜索功能受限";
 "premium.searchRestricted.description" = "只有premium用户可以获取所有搜索结果。";
 "premium.searchRestricted.action" = "了解premium";
 
 "hint.addSource.title" = "添加你的第一个来源";
-"hint.addSource.text" = "点击+并输入网站地址。如果你之前已经复制了地址，该字段将自动填充。";
+"hint.addSource.text" = "点击+并输入网站地址。如果你之前已经复制了订阅源地址，该地址将自动填充。";
 
-"hint.limit.title" = "你已经达到了限制😱";
+"hint.limit.title" = "你已经达到了使用限制😱";
 "hint.limit.text" = "要继续无限制地使用应用程序，请订阅premium。";
 
 "onboarding.about.title" = "嘿！";
-"onboarding.about.text" = "Artykul是一个应用程序，允许你在一个地方通过RSS阅读你最喜欢的网站，没有广告，没有混乱，没有算法新闻源。";
+"onboarding.about.text" = "Artykul是一个应用程序，允许你在一个地方通过RSS阅读你最喜欢的网站，没有广告，没有混乱，没有算法推荐。";
 
-"onboarding.about.features" = "特性";
+"onboarding.about.features" = "功能特性";
 "onboarding.about.features.sources.title" = "来源和文件夹";
-"onboarding.about.features.sources.text" = "订阅网站，组织，并在一个地方阅读它们。";
-"onboarding.about.features.viewer.title" = "文章查看器";
-"onboarding.about.features.viewer.text" = "被内容吸引，而不是广告、弹出窗口和混乱。";
+"onboarding.about.features.sources.text" = "在一个地方订阅、组织和阅读所有网站。";
+"onboarding.about.features.viewer.title" = "阅读模式";
+"onboarding.about.features.viewer.text" = "吸引人的是内容，而不是广告、弹出式窗口和杂乱无章的内容。";
 "onboarding.about.features.favorites.title" = "收藏";
 "onboarding.about.features.favorites.text" = "将有趣的文章添加到你的收藏夹，以便随时查看。";
 "onboarding.about.features.bookmarks.title" = "书签";
@@ -276,8 +276,8 @@
 "onboarding.notifications.text" = "你可以开启通知，以获取你最喜欢的作者的新文章。";
 "onboarding.notifications.allow" = "允许通知";
 
-"onboarding.discover.title" = "谁的文章要阅读？";
-"onboarding.discover.text" = "关注作者在应用中阅读他们的帖子。你可以稍后添加任何来源。";
+"onboarding.discover.title" = "要阅读谁的文章？";
+"onboarding.discover.text" = "关注此作者并在应用中阅读他们的帖子。你可以稍后添加任何订阅源。";
 
 "modal.delete.title" = "你确定吗？";
 "modal.delete.description" = "此操作无法撤销。";
@@ -285,20 +285,20 @@
 "modal.delete.cancel" = "取消";
 
 "tip.supportedSources.title" = "支持的来源";
-"tip.supportedSources.description" = "你可以插入RSS feed、Mastodon profile、Telegram channel和YouTube channel的链接。";
+"tip.supportedSources.description" = "你可以插入RSS feed、Mastodon profile、Telegram channel和YouTube channel的链接来订阅阅读。";
 
-"error.open-link" = "无法打开链接，可能没有合适的应用程序";
+"error.open-link" = "无法打开该链接，可能没有支持的应用程序";
 "error.badURL" = "获取网页失败";
-"error.feedNotFound" = "在页面上找不到任何源";
+"error.feedNotFound" = "在该页面上找不到受支持的订阅源";
 "error.failedToGetFeed.detailed" = "无法检索页面，请检查您的互联网连接。";
-"error.feedNotFound.detailed" = "在页面上找不到提要。请尝试其他页面或尝试输入直接提要链接。";
+"error.feedNotFound.detailed" = "在该页面上找不到受支持的订阅源。请尝试其他页面或尝试输入直接提要链接。";
 
 "error.network" = "无法连接到服务器，请稍后再试。";
 "error.removeAccount.internalProblem" = "无法删除帐户，请稍后再试或联系支持。";
 
 "error.tts.unknownLanguage" = "无法检测到文章的语言。";
 "error.tts.unsupportedLanguage" = "很遗憾，不支持该语言。";
-"error.tts.commonError" = "无法将文章转换为语音。";
+"error.tts.commonError" = "无法将该文章转换为语音朗读。";
 
 
 "code.unknown" = "发生未知错误。请尝试更新应用程序或联系支持。";
@@ -313,11 +313,11 @@
 "code.102" = "电子邮件格式无效";
 "code.103" = "密码格式无效";
 "code.104" = "无效或过期的令牌";
-"code.105" = "下载图片错误";
+"code.105" = "下载图片出错";
 "code.106" = "用户名格式不正确";
 "code.107" = "用户名已存在";
-"code.130" = "出版物内容为空";
-"code.131" = "出版物的图片不正确";
+"code.130" = "文章内容为空";
+"code.131" = "文章的图片不正确";
 
 "settings.account.profileInformation" = "个人信息";
 "settings.account.username" = "用户名";
