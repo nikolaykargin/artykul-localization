@@ -1,0 +1,363 @@
+"code" = "sk";
+
+"auth.sign-in" = "Prihlásiť sa";
+"auth.signOut" = "Odhlásiť sa";
+
+"tabBar.sources" = "Zdroje";
+"tabBar.favorites" = "Obľúbené";
+"tabBar.add-source" = "Pridať zdroj";
+"tabBar.settings" = "Nastavenia";
+"tabBar.readingList" = "Zoznam na čítanie";
+"tabBar.bookmarks" = "Záložky";
+
+"add-source.url" = "Webstránka alebo URL feed";
+"add-source.submit" = "Pridať zdroj";
+
+"edit-source.title" = "Upraviť zdroj";
+"edit-source.submit" = "Uložiť";
+"edit-source.articleViewerDisabled" = "Nepoužívať Prehliadač článkov";
+"edit-source.feedsNote" = "Na ten istý web možno prepojiť viacero feedov. Ak Ťa už jednotlivé feedy nezaujímajú, môžeš ich aktualizáciu vypnúť.";
+
+"folder.unsorted" = "Netriedené";
+
+"select-folder.create-new" = "Vytvoriť nový";
+"create-folder.title" = "Vytvoriť priečinok";
+"create-folder.name" = "Názov priečinka";
+"edit-folder.title" = "Upraviť priečinok";
+
+"delete" = "Vymazať";
+"remove" = "Odstrániť";
+"cancel" = "Zrušiť";
+"create" = "Vytvoriť";
+"today" = "Dnes";
+"yesterday" = "Včera";
+"feed" = "Feed";
+"feeds" = "Feedy";
+"recommendations" = "Odporúčania";
+"author" = "Autor";
+"done" = "Hotovo";
+"folder" = "Priečinok";
+"website" = "Webstránka";
+"subscribe" = "Prihlásiť sa";
+"unsubscribe" = "Odhlásiť sa";
+"tos" = "Podmienky používania";
+"privacy-policy" = "Ochrana osobných údajov";
+"sources" = "Zdroje";
+"control-panel" = "Artykul CLI";
+"notNow" = "Teraz nie";
+"notifications" = "Upozornenia";
+"settings" = "Nastavenia";
+
+"instagram" = "Instagram";
+"share.instagram.stories" = "Instagram príbehy";
+
+"discover" = "Objaviť";
+"discover.suggestion" = "Návrh";
+"discover.suggestion.note" = "Môžeš navrhnúť ľubovoľnú stránku. Obsah stránky starostlivo skontrolujeme a prípadne pridáme.";
+"discover.unsupported" = "Objaviť nie je podporované pre tvoj jazyk alebo región. Svoje obľúbené stránky môžeš navrhnúť kliknutím na + v hornej časti.";
+
+"categories" = "Kategórie";
+"search" = "Hľadať";
+"search.results" = "Výsledky hľadania";
+"search.articles.description" = "Hľadať články zo svojho feedu.";
+
+"feed.empty" = "Zatiaľ nič na zobrazenie";
+"feed.error" = "Nepodarilo sa získať články";
+"feed.empty.bookmarks_1" = "V tejto časti môžeš ukladať stránky, ktoré nemajú feed. Ak chceš pridať webstránku do tohto zoznamu, ťukni na položku ";
+"feed.empty.bookmarks_2" = " vyššie alebo použi ponuku Zdieľať v prehliadači.";
+"feed.empty.favorites_1" = "Pre pridanie článku k obľúbeným, ťukni na ";
+"feed.empty.favorites_2" = " pri čítaní alebo podrž prst na karte a vyber "Pridať k obľúbeným".";
+
+"bookmarks.addTitle" = "Pridať záložku";
+"bookmarks.url" = "URL stránky";
+"bookmarks.errors.badURL" = "Zadaj platnú URL.";
+"bookmarks.errors.failedToGet" = "Nepodarilo sa načítať webstránku. Mohol sa vyskytnúť problém s internetovým pripojením.";
+
+"date.today-at" = "Dnes o ";
+"date.yesterday-at" = "Včera o ";
+
+"settings.help" = "Pomoc";
+"settings.help.website" = "Webstránka";
+"settings.help.telegram" = "Telegram";
+"settings.help.email" = "Email";
+"settings.help.twitter" = "Twitter";
+"settings.help.blog" = "Blog";
+
+"settings.feed" = "Feed";
+"settings.feed.display-images" = "Zobraziť obrázky";
+"settings.feed.trimTitles" = "Orezať dlhé názvy";
+"settings.feed.wide-images" = "Široké obrázky";
+"settings.feed.readWhileScrolling" = "Čítať počas posúvania";
+"settings.feed.readWhileScrolling.note" = "Automaticky označiť články ako prečítané.";
+"settings.feed.displayGalleries" = "Zobraziť galérie";
+"settings.feed.style.dynamic" = "Dynamický";
+"settings.feed.style.large" = "Veľký";
+"settings.feed.style.small" = "Malý";
+
+"settings.theme" = "Vzhľad";
+"settings.theme.icon" = "Ikona aplikácie";
+"settings.theme.useRoundedFont" = "Zaoblené písmo";
+
+"settings.article" = "Čítanie";
+"settings.article.viewer" = "Prehliadač článkov";
+"settings.article.viewer.note" = "Prehliadač článkov umožňuje čítať články bez prejdenia na plnú verziu webstránky.";
+"settings.article.in-app-browser" = "Prehliadač v aplikácii";
+"settings.article.fullscreenBrowser" = "Prehliadač na celú obrazovku";
+"settings.article.endlessReading" = "Nekonečné čítanie";
+"settings.article.endlessReading.note.swipe" = "Prepínanie článkov potiahnutím prstom.";
+"settings.article.endlessReading.note.scroll" = "Prepínanie článkov posúvaním.";
+"settings.article.fullScreenMode" = "Režim celej obrazovky";
+"settings.article.fullScreenMode.note" = "Skryť navigačný panel počas čítania.";
+"settings.article.appearance" = "Vzhľad";
+
+"settings.browser" = "Prehliadač";
+
+"settings.common" = "Spoločné";
+"settings.common.openAtStartup" = "Otvoriť pri spustení";
+"settings.common.shareViaArtykul" = "Zdieľať cez Artykul";
+
+"settings.subscriptions" = "Odbery";
+"settings.subscriptions.import" = "Import";
+"settings.subscriptions.export" = "Export";
+"settings.subscriptions.export-note" = "Podporovaný je formát OPML. Export nezahŕňa obľúbené články a záložky.";
+
+"settings.color" = "Farba";
+
+"settings.storage" = "Úložisko";
+"settings.storage.used_space" = "Využitý priestor";
+"settings.storage.database" = "Databáza";
+"settings.storage.database_media" = "Databáza médií";
+"settings.storage.images_article" = "Obrázky článkov";
+"settings.storage.images_all" = "Všetky obrázky";
+"settings.storage.used_space.note" = "Najnovšie články sú v aplikácii vždy dostupné aj bez prístupu na internet. Staršie články, okrem tých v obľúbených položkách a záložkách, sa odstránia, aby sa ušetrilo miesto na disku medzi spusteniami aplikácie.";
+
+"settings.storage.management" = "Správa";
+"settings.storage.max_articles" = "Články zo stránky";
+"settings.storage.remove_old_article" = "Odstrániť staré články";
+
+"settings.storage.optimizeImageStorage" = "Optimalizácia úložiska";
+"settings.storage.optimizeImageStorageNote" = "Aplikácia konvertuje obrázky z článkov do optimálnych formátov a znižuje ich veľkosť až o 70 %. Optimalizácia môže mať vplyv na spotrebu batérie.";
+
+"settings.storage.autoMediaDownload" = "Automatické sťahovanie";
+"settings.storage.autoMediaDownloadNote" = "Keď je automatické sťahovanie vypnuté, obrázky a iné súbory z článkov sa stiahnu iba po ich otvorení.";
+
+"settings.account" = "Účet";
+
+"settings.account.sync" = "Synchronizácia";
+"settings.account.syncNote" = "Všetky tvoje odbery, priečinky, obľúbené články atď. sa automaticky synchronizujú medzi zariadeniami.";
+
+"settings.developer" = "Vývojár";
+"settings.articleDebug" = "Ladenie článku";
+"settings.dropArticleLimit" = "Obnoviť limit článku na 0";
+"settings.dropReview" = "Zanechať recenziu";
+
+"settings.rate" = "Ohodnotiť Artykul";
+"settings.rate.note" = "Pomôže to ostatným dozvedieť sa o aplikácii. Ak máš problém, kontaktuj nás.";
+
+"auth.bigTitle" = "Získaj viac s účtom";
+"auth.feature.sync" = "Synchronizácia";
+"auth.feature.sync.description" = "Zdroje, obľúbené položky a záložky budú synchronizované medzi zariadeniami Apple.";
+"auth.feature.notifications" = "Upozornenia";
+"auth.feature.notifications.description" = "Budeš si môcť povoliť upozornenia na nové články z vybraných zdrojov.";
+"auth.feature.speed" = "Rýchlosť";
+"auth.feature.speed.description" = "Naši jednorožci pravidelne kontrolujú zdroje a informujú aplikáciu o nových článkoch.";
+"auth.feature.privacy" = "Súkromie";
+"auth.feature.privacy.description" = "Nežiadame o tvoje osobné údaje, ako je emailová adresa, meno alebo telefónne číslo.";
+"auth.removeAccount" = "Odstrániť účet";
+
+"auth.removeAccount.title" = "Si si istý?";
+"auth.removeAccount.description" = "Nebudeš dostávať upozornenia, synchronizácia prestane fungovať a všetky údaje účtu Artykul budú odstránené.";
+"auth.removeAccount.ok" = "Odstrániť účet";
+"auth.removeAccount.confirm.title" = "Si si naozaj istý?";
+"auth.removeAccount.confirm.description" = "Túto akciu nemôžeme vrátiť späť, aj keby sme veľmi chceli.";
+"auth.removeAccount.confirm.ok" = "Áno, som si istý";
+
+"system-font" = "Systém";
+
+"actions.continue" = "Pokračovať";
+"actions.mark-as-read" = "Označiť ako prečítané";
+"actions.delete" = "Odstrániť";
+"actions.share" = "Zdieľať";
+"actions.copy_url" = "Kopírovať odkaz";
+"actions.copy_image" = "Kopírovať obrázok";
+"actions.favorite" = "Do obľúbených";
+"actions.unfavorite" = "Preč z obľúbených";
+"actions.open_website" = "Otvoriť webstránku";
+"actions.edit" = "Upraviť";
+"actions.display-in-feed" = "Zobrazovať vo feede";
+"actions.dont-display-in-feed" = "Nezobrazovať vo feede";
+"actions.receive-notifications" = "Povoliť upozornenia";
+"actions.dont-receive-notifications" = "Vypnúť upozornenia";
+"actions.open-in-browser" = "Otvoriť v prehliadači";
+"actions.reload" = "Znova načítať";
+"actions.report" = "Nahlásiť";
+"actions.report.spam" = "Spam";
+"actions.report.violence" = "Násilie";
+"actions.report.pornography" = "Pornografia";
+"actions.report.child-abuse" = "Zneužívanie detí";
+"actions.report.copyright" = "Autorské práva";
+"actions.report.wrong-layout" = "Nesprávne rozloženie";
+
+"wrong-layout.success.title" = "Ďakujeme!";
+"wrong-layout.success.description" = "Tento článok skontrolujeme. Ak chceš zistiť stav kontroly, kontaktuj podporu.";
+
+"notifications.grant-error.title" = "Chyba";
+"notifications.grant-error.message" = "Ak neudelíš prístup, nebudeme môcť posielať upozornenia na nové články.";
+"notifications.grant-error.settings" = "Nastavenia";
+
+"proxy" = "Proxy";
+"proxy.description" = "Všetky tvoje požiadavky budú sprostredkované cez naše servery. Vlastníci stránok a reklamné siete Ťa nebudú môcť sledovať. Nemôžeme zaručiť, že s týmto nastavením budeš mať prístup na akúkoľvek stránku.";
+
+"site-blocked.title" = "Stránka zablokovaná";
+"site-blocked.message" = "Bohužiaľ články z tejto stránky nemôžeme zobraziť, pretože porušujú naše pravidlá alebo nás o to požiadali tvorcovia stránky.";
+
+"appearance.example.header" = "Slnko práve uvoľnilo najsilnejšiu slnečnú erupciu za takmer päť rokov";
+"appearance.example.paragraph_1" = "Slnko tento týždeň vypustilo silnú bočnú erupciu. Erupciu spôsobila slnečná škvrna na západnom okraji našej miestnej hviezdy a predstavuje najsilnejšiu slnečnú erupciu zaznamenanú od roku 2017.";
+"appearance.example.paragraph_2" = "Observatórium NASA Solar Dynamics Observatory zaznamenalo výbuch v utorok o 20:57, čo spôsobilo výpadok rádiového vysielania pre niektoré krátke vlny, leteckú a inú komunikáciu v Ázii.";
+
+"folder.delete.description" = "Všetky odbery sa presunú do netriedeného priečinka.";
+
+
+
+
+"premium" = "Premium";
+"premium.title" = "Artykul Premium";
+"premium.restore" = "Obnoviť nákupy";
+"premium.note" = "Predplať si a získaj prístup k ďalším funkciám a podpor budúci vývoj.";
+"premium.thanks" = "Ďakujeme za podporu! Predplatné odstraňuje obmedzenia a poskytuje prístup k ďalším funkciám, ako sú priečinky, ikony, farby v aplikácii a vyhľadávanie.";
+"premium.autoRenew.note" = "Plán sa automaticky obnovuje, kým sa nezruší. Predplatné môžeš zrušiť kedykoľvek, ale najneskôr 24 hodín pred jeho účtovaním.";
+"premium.feature.unlimited" = "Neobmedzené zdroje a upozornenia.";
+"premium.feature.customization" = "Farby akcentu a ikony aplikácií.";
+"premium.feature.icons" = "Neobmedzený počet priečinkov a ikon.";
+"premium.feature.search" = "Vyhľadávanie článkov z feedov.";
+"premium.feature.support" = "Podpor náš malý tím.";
+"premium.subscribe.monthly" = "Predplatné za %@/mesiac";
+"premium.subscribe.monthly.note" = "Plán sa automaticky obnovuje za %@ mesačne, kým sa nezruší.";
+"premium.subscribe.annual" = "Predplatné za %@/rok";
+"premium.subscribe.annual.note" = "Plán sa automaticky obnovuje za %@ ročne, kým sa nezruší.";
+"premium.manageSubscription" = "Spravovať predplatné";
+"premium.type" = "Typ";
+"premium.renews" = "Obnoví sa";
+"premium.getHelp" = "Získať pomoc";
+"premium.active" = "Aktívne";
+"premium.redeemCode" = "Uplatniť kód";
+"premium.freeTrial" = "Bezplatná skúšobná verzia na";
+
+"premium.oneTime" = "Jednorazovo";
+"premium.oneTime.buyFor" = "Kúpiť za %@";
+"premium.oneTime.note" = "Jednorazový nákup.";
+
+"premium.searchRestricted.title" = "Vyhľadávanie je obmedzené";
+"premium.searchRestricted.description" = "Všetky výsledky vyhľadávania môžu získať iba Premium používatelia.";
+"premium.searchRestricted.action" = "Zisti viac o Premium";
+
+"hint.addSource.title" = "Pridaj svoj prvý zdroj";
+"hint.addSource.text" = "Klepni na + a zadaj adresu webovej stránky. Ak sa adresa predtým skopírovala, pole sa vyplní automaticky.";
+
+"hint.limit.title" = "Dosiahol si limit 😱";
+"hint.limit.text" = "Pre používanie aplikácie bez obmedzení si predplať Premium.";
+
+"onboarding.about.title" = "Ahoj!";
+"onboarding.about.text" = "Artykul je aplikácia, ktorá Ti umožňuje čítať obľúbené stránky prostredníctvom RSS na jednom mieste bez reklám, neporiadku a algoritmických informačných kanálov.";
+
+"onboarding.about.features" = "Funkcie";
+"onboarding.about.features.sources.title" = "Zdroje a priečinky";
+"onboarding.about.features.sources.text" = "Prihlás sa na odber webstránok, usporiadaj a prečítaj si ich všetky na jednom mieste.";
+"onboarding.about.features.viewer.title" = "Prehliadač článkov";
+"onboarding.about.features.viewer.text" = "Nechaj sa uchvátiť obsahom, nie reklamami, vyskakovacími oknami a neporiadkom.";
+"onboarding.about.features.favorites.title" = "Obľúbené";
+"onboarding.about.features.favorites.text" = "Pridaj si zaujímavé články do obľúbených a maj ich vždy po ruke.";
+"onboarding.about.features.bookmarks.title" = "Záložky";
+"onboarding.about.features.bookmarks.text" = "Ak webstránka nemá feed, daj si ju do záložiek a vráť sa k nej neskôr.";
+
+"onboarding.about.sign-in-later" = "Prihlásiť sa neskôr";
+
+"onboarding.notifications.title" = "Dostávať upozornenia";
+"onboarding.notifications.text" = "Môžeš si zapnúť upozornenia na nové články svojich obľúbených autorov.";
+"onboarding.notifications.allow" = "Povoliť upozornenia";
+
+"onboarding.discover.title" = "Koho čítať?";
+"onboarding.discover.text" = "Sleduj autorov a čítaj ich príspevky v aplikácii. Neskôr môžeš pridať akékoľvek zdroje.";
+
+"modal.delete.title" = "Si si istý?";
+"modal.delete.description" = "Akciu nemožno vrátiť späť.";
+"modal.delete.ok" = "Odstrániť";
+"modal.delete.cancel" = "Zrušiť";
+
+"tip.supportedSources.title" = "Podporované zdroje";
+"tip.supportedSources.description" = "Môžeš vložiť odkaz na RSS feed, Mastodon profil, Telegram a YouTube kanály.";
+
+"error.open-link" = "Nepodarilo sa otvoriť odkaz, možno neexistuje vhodná aplikácia";
+"error.badURL" = "Nepodarilo sa načítať webstránku";
+"error.feedNotFound" = "Na stránke sa nepodarilo nájsť žiadny zdroj";
+"error.failedToGetFeed.detailed" = "Stránku sa nepodarilo načítať, skontroluj prosím svoje internetové pripojenie.";
+"error.feedNotFound.detailed" = "Na stránke sa nenašiel žiadny feed. Skús inú stránku alebo skús zadať priamy odkaz na feed.";
+
+"error.network" = "Nepodarilo sa pripojiť k serveru, skús to prosím neskôr.";
+"error.removeAccount.internalProblem" = "Nepodarilo sa odstrániť účet, skús to neskôr alebo kontaktuj podporu.";
+
+"error.tts.unknownLanguage" = "Nepodarilo sa zistiť jazyk článku.";
+"error.tts.unsupportedLanguage" = "Bohužiaľ, jazyk nie je podporovaný.";
+"error.tts.commonError" = "Nepodarilo sa previesť článok na reč.";
+
+
+"code.unknown" = "Vyskytla sa neznáma chyba. Skús aktualizovať aplikáciu alebo kontaktuj podporu.";
+"code.-1" = "Vyskytla sa interná chyba";
+"code.1" = "Vyvolaná neznáma metóda";
+"code.2" = "Zadané neplatné argumenty";
+"code.3" = "Nedostatočné oprávnenia";
+"code.4" = "Vyžaduje sa overenie";
+"code.5" = "Nenájdené";
+"code.6" = "Prekročený limit";
+"code.101" = "Email už existuje";
+"code.102" = "Neplatný formát emailu";
+"code.103" = "Neplatný formát hesla";
+"code.104" = "Neplatný alebo expirovaný token";
+"code.105" = "Chyba pri sťahovaní obrázka";
+"code.106" = "Nesprávny formát používateľského mena";
+"code.107" = "Používateľské meno už existuje";
+"code.130" = "Zverejňovaný obsah je prázdny";
+"code.131" = "Nesprávne obrázky na zverejnenie";
+
+"settings.account.profileInformation" = "Informácie o profile";
+"settings.account.username" = "Používateľské meno";
+"settings.account.username.note" = "Pre používateľské meno môžeš použiť a-z, 0-9 a podčiarkovníky. Minimálna dĺžka je 5 znakov.";
+"settings.account.username.exists" = "Toto používateľské meno je už obsadené.";
+"settings.account.username.badFormat" = "Skontroluj svoje používateľské meno.";
+"settings.account.name" = "Meno";
+"settings.account.photo" = "Fotka";
+"settings.account.about" = "O Tebe";
+"settings.account.about.note" = "Akékoľvek údaje, napríklad vek, povolanie alebo mesto.";
+"links" = "Odkazy";
+"link" = "Odkaz";
+"publish" = "Zverejniť";
+"linkEditor.title" = "Názov";
+"linkEditor.text" = "Pridať nejaké podrobnosti a #tagy";
+"linkEditor.addPhotos" = "Pridať fotky";
+"linkEditor.addLink" = "Pridať odkaz";
+"linkEditor.fromYourHistory" = "Z tvojej histórie";
+"reply" = "Odpovedať";
+"sendComment.placeholder" = "Komentovať...";
+"now" = "Teraz";
+"sendComment.reply" = "Odpovedať %@";
+"save" = "Uložiť";
+"follow" = "Sledovať";
+"following" = "Sledované";
+"unfollow" = "Nesledovať";
+"followers" = "Sledovatelia";
+"notification.newFollowers" = "Noví sledovatelia";
+"notification.followedYou" = "%@ Ťa sleduje";
+"notification.mentionedYou" =  "%@ Ťa spomenul";
+"notification.repliedToYou" =  "%@ Ti odpovedal";
+"latest" = "Najnovšie";
+"trending" = "Populárne";
+"publishInLinks" = "Zverejniť v odkazoch";
+"hide" = "Skryť";
+"show" = "Zobraziť";
+"settings.article.fixedSidebar" = "Fixný postranný panel";
+"settings.article.fixedSidebar.note" = "Keď je na obrazovke dostatok miesta";
+"type" = "Typ";
+"hashtag" = "Hashtag";
+"widget.links.description" = "Zobrazí najnovšie zverejnené odkazy";
+"articles" = "Články";
+"widget.articles.description" = "Zobrazí najnovšie články";
