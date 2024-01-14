@@ -3,7 +3,7 @@
 "auth.sign-in" = "Войти";
 "auth.signOut" = "Выйти";
 
-"tabBar.sources" = "Источники"
+"tabBar.sources" = "Источники";
 "tabBar.favorites" = "Избранное";
 "tabBar.add-source" = "Добавить источник";
 "tabBar.settings" = "Настройки";
