@@ -2,8 +2,11 @@
 
 Lisez vos sites préférés dans une seule application et sans bruit. Restez en contact avec ce qui se passe dans vos centres d'intérêt préférés. Artykul est un lecteur RSS avec un lecteur natif de qualité supérieure.
 
-RSS, ATOM, YOUTUBE, TELEGRAM, MASTODON
-Vous pouvez ajouter n'importe quel site qui prend en charge RSS ou Atom. Ajoutez vos blogs préférés, sites d'actualités, YouTube, canaux Telegram, ou Mastodon.
+RSS, ATOM, YOUTUBE, TELEGRAM, MASTODON, REDDIT
+Vous pouvez ajouter n'importe quel site qui prend en charge RSS ou Atom. Ajoutez vos blogs préférés, sites d'actualités, Reddit, YouTube, chaînes Telegram ou profils Mastodon.
+
+LIENS
+Partagez des liens vers des vidéos YouTube intéressantes, des articles, des publications Telegram et Reddit, des actualités, des applications, des recettes, et tout simplement des matériaux intéressants venant d'Internet. Restez informé sur ce qui est actuellement pertinent dans le monde, parmi vos amis, et autour de vous.
 
 FLUX ET DOSSIERS
 Créez des dossiers personnalisés et ajoutez-y des sites. Vous pouvez définir des icônes personnalisées pour vos dossiers. Les flux et les dossiers se synchroniseront avec votre compte Artykul si vous le souhaitez. Vous pouvez activer les notifications push pour les sites préférés et être le premier à être informé des nouveaux articles.
@@ -39,10 +42,21 @@ Conditions d'utilisation : https://artykul.org/doc/terms-of-use/
 
 # What's New in This Version
 
-Dans cette mise à jour, il n'y a pas de grandes nouvelles fonctionnalités, mais certains bugs et problèmes ont été corrigés, et il y a une belle surprise.
+C'est l'une des mises à jour les plus grandioses. Tout ce que vous avez demandé, et même plus.
 
-Vous l'avez souvent demandé et nous avons répondu. Artykul Infinity – une alternative à l'abonnement mensuel et annuel. Un paiement unique pour accéder à Artykul sans limites pour toujours.
+Nous introduisons une nouvelle section - Liens !
+Partagez des liens vers des vidéos YouTube intéressantes, des articles, des publications Telegram et Reddit, des actualités, des applications, des recettes, et simplement des matériaux intéressants provenant d'Internet. Restez à jour avec ce qui est actuellement tendance dans le monde, parmi vos amis, et autour de vous.
 
-Nous avons également légèrement amélioré le comportement de l'interface sur iPad et macOS.
+Support de Reddit.
+Lisez vos subreddits et utilisateurs favoris directement depuis l'application.
 
-Malheureusement, dans cette mise à jour, la fonction Article-to-Audio est temporairement indisponible. Nous la rétablirons dès que possible.
+Widgets.
+Vous pouvez maintenant ajouter des widgets sur les derniers articles des onglets Aujourd'hui et Flux, des liens populaires et récents, ou même des liens avec un hashtag spécifique.
+
+Deux nouvelles langues : chinois et slovaque.
+
+Et bien d'autres petits mais importants changements :
+• Conception de l'écran des Sources mise à jour avec une navigation simplifiée et plus d'options "ouvertes par défaut".
+• Nouveau réglage dans les articles : hauteur de ligne.
+• La capacité de cacher complètement la barre latérale sur iPad et macOS.
+• Corrections de bugs et quelques changements d'interface.

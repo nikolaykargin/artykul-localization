@@ -66,7 +66,7 @@
 "feed.empty.bookmarks_1" = "V tejto časti môžeš ukladať stránky, ktoré nemajú feed. Ak chceš pridať webstránku do tohto zoznamu, ťukni na položku ";
 "feed.empty.bookmarks_2" = " vyššie alebo použi ponuku Zdieľať v prehliadači.";
 "feed.empty.favorites_1" = "Pre pridanie článku k obľúbeným, ťukni na ";
-"feed.empty.favorites_2" = " pri čítaní alebo podrž prst na karte a vyber \"Pridať k obľúbeným\".";
+"feed.empty.favorites_2" = " pri čítaní alebo podrž prst na karte a vyber \"Do obľúbených\".";
 
 "bookmarks.addTitle" = "Pridať záložku";
 "bookmarks.url" = "URL stránky";
@@ -87,7 +87,7 @@
 "settings.feed.display-images" = "Zobraziť obrázky";
 "settings.feed.trimTitles" = "Orezať dlhé názvy";
 "settings.feed.wide-images" = "Široké obrázky";
-"settings.feed.readWhileScrolling" = "Prečítať posúvaním";
+"settings.feed.readWhileScrolling" = "Prečítať rolovaním článku";
 "settings.feed.readWhileScrolling.note" = "Automaticky označiť články ako prečítané.";
 "settings.feed.displayGalleries" = "Zobraziť galérie";
 "settings.feed.style.dynamic" = "Dynamický";
@@ -105,14 +105,14 @@
 "settings.article.fullscreenBrowser" = "Prehliadač na celú obrazovku";
 "settings.article.endlessReading" = "Nekonečné čítanie";
 "settings.article.endlessReading.note.swipe" = "Prepínanie článkov potiahnutím prstom.";
-"settings.article.endlessReading.note.scroll" = "Prepínanie článkov posúvaním.";
+"settings.article.endlessReading.note.scroll" = "Prepínanie článkov rolovaním.";
 "settings.article.fullScreenMode" = "Režim celej obrazovky";
 "settings.article.fullScreenMode.note" = "Skryť navigačný panel počas čítania.";
 "settings.article.appearance" = "Vzhľad";
 
 "settings.browser" = "Prehliadač";
 
-"settings.common" = "Spoločné";
+"settings.common" = "Všeobecné";
 "settings.common.openAtStartup" = "Otvoriť pri spustení";
 "settings.common.shareViaArtykul" = "Zdieľať cez Artykul";
 
@@ -131,8 +131,8 @@
 "settings.storage.images_all" = "Všetky obrázky";
 "settings.storage.used_space.note" = "Najnovšie články sú v aplikácii vždy dostupné aj bez prístupu na internet. Staršie články, okrem tých v obľúbených položkách a záložkách, sa odstránia, aby sa ušetrilo miesto na disku medzi spusteniami aplikácie.";
 
-"settings.storage.management" = "Správa";
-"settings.storage.max_articles" = "Články zo stránky";
+"settings.storage.management" = "Správa článkov";
+"settings.storage.max_articles" = "Článkov zo stránky";
 "settings.storage.remove_old_article" = "Odstrániť staré články";
 
 "settings.storage.optimizeImageStorage" = "Optimalizácia úložiska";
@@ -154,7 +154,7 @@
 "settings.rate" = "Ohodnotiť Artykul";
 "settings.rate.note" = "Pomôže to ostatným dozvedieť sa o aplikácii. Ak máš problém, kontaktuj nás, prosím.";
 
-"auth.bigTitle" = "Získaj viac s účtom";
+"auth.bigTitle" = "Získaj viac s účtom";	
 "auth.feature.sync" = "Synchronizácia";
 "auth.feature.sync.description" = "Zdroje, obľúbené položky a záložky budú synchronizované medzi zariadeniami Apple.";
 "auth.feature.notifications" = "Upozornenia";
@@ -223,7 +223,7 @@
 "premium" = "Premium";
 "premium.title" = "Artykul Premium";
 "premium.restore" = "Obnoviť nákupy";
-"premium.note" = "Predplať si a získaj prístup k ďalším funkciám a podpor budúci vývoj.";
+"premium.note" = "Predplať si Premium a získaj prístup k ďalším funkciám a podpor budúci vývoj.";
 "premium.thanks" = "Ďakujeme za podporu! Predplatné odstraňuje obmedzenia a poskytuje prístup k ďalším funkciám, ako sú priečinky, ikony, farby v aplikácii a vyhľadávanie.";
 "premium.autoRenew.note" = "Plán sa automaticky obnovuje, kým sa nezruší. Predplatné môžeš zrušiť kedykoľvek, ale najneskôr 24 hodín pred jeho účtovaním.";
 "premium.feature.unlimited" = "Neobmedzené zdroje a upozornenia.";
@@ -231,9 +231,9 @@
 "premium.feature.icons" = "Neobmedzené priečinky a ikony.";
 "premium.feature.search" = "Vyhľadávanie článkov z feedov.";
 "premium.feature.support" = "Podpor náš malý tím.";
-"premium.subscribe.monthly" = "Predplatné za %@/mesiac";
+"premium.subscribe.monthly" = "Predplatiť za %@/mesiac";
 "premium.subscribe.monthly.note" = "Plán sa automaticky obnovuje za %@ mesačne, kým sa nezruší.";
-"premium.subscribe.annual" = "Predplatné za %@/rok";
+"premium.subscribe.annual" = "Predplatiť za %@/rok";
 "premium.subscribe.annual.note" = "Plán sa automaticky obnovuje za %@ ročne, kým sa nezruší.";
 "premium.manageSubscription" = "Spravovať predplatné";
 "premium.type" = "Typ";
@@ -241,7 +241,7 @@
 "premium.getHelp" = "Získať pomoc";
 "premium.active" = "Aktívne";
 "premium.redeemCode" = "Uplatniť kód";
-"premium.freeTrial" = "Bezplatná skúšobná verzia na";
+"premium.freeTrial" = "Vyskúšaj bezplatne na";
 
 "premium.oneTime" = "Jednorazovo";
 "premium.oneTime.buyFor" = "Kúpiť za %@";
@@ -252,9 +252,9 @@
 "premium.searchRestricted.action" = "Zisti viac o Premium";
 
 "hint.addSource.title" = "Pridaj svoj prvý zdroj";
-"hint.addSource.text" = "Klepni na + a zadaj adresu webovej stránky. Ak sa adresa predtým skopírovala, pole sa vyplní automaticky.";
+"hint.addSource.text" = "Ťukni na + a zadaj adresu webovej stránky. Ak sa adresa predtým skopírovala, pole sa vyplní automaticky.";
 
-"hint.limit.title" = "Dosiahol si limit 😱";
+"hint.limit.title" = "Limit dosiahnutý 😱";
 "hint.limit.text" = "Pre používanie aplikácie bez obmedzení si predplať Premium.";
 
 "onboarding.about.title" = "Ahoj!";

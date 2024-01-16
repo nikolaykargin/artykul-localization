@@ -2,8 +2,11 @@
 
 Čítaj svoje obľúbené stránky v jednej aplikácii a bez rušivých elementov. Buď informovaný o tom, čo sa deje v oblastiach, ktoré Ťa zaujímajú. Artykul je RSS čítačka s najlepšou natívnou čítačkou vo svojej triede.
 
-RSS, ATOM, YOUTUBE, TELEGRAM, MASTODON
-Môžeš pridať ľubovoľnú stránku, ktorá podporuje RSS alebo Atom. Pridaj svoje obľúbené blogy, spravodajské stránky, YouTube, Telegram kanály alebo Mastodon profily.
+RSS, ATOM, YOUTUBE, TELEGRAM, MASTODON, REDDIT
+Môžete pridať akúkoľvek stránku, ktorá podporuje RSS alebo Atom. Pridajte svoje obľúbené blogy, spravodajské stránky, Reddit, YouTube, Telegram kanály alebo profily na Mastodone.
+
+ODKAZY
+Zdieľajte odkazy na zaujímavé videá na YouTube, články, príspevky na Telegrame a Reddite, novinky, aplikácie, recepty a len zaujímavé materiály z internetu. Buďte informovaní o tom, čo je momentálne aktuálne vo svete, medzi vašimi priateľmi a vo vašom okolí.
 
 FEEDY A PRIEČINKY
 Vytváraj si vlastné priečinky a pridávaj do nich stránky. Pre svoje priečinky môžeš nastaviť vlastné ikony. Ak chceš, feedy a priečinky sa budú synchronizovať s tvojim Artykul účtom. Môžeš si zapnúť push notifikácie pre obľúbené stránky a dozvedieť sa medzi prvými o nových článkoch.
@@ -39,3 +42,21 @@ Podmienky používania: https://artykul.org/doc/terms-of-use/
 
 # What's New in This Version
 
+Toto je jedna z najveľkolepejších aktualizácií. Všetko, čo ste požadovali a ešte viac.
+
+Predstavujeme novú sekciu – Odkazy!
+Zdieľajte odkazy na zaujímavé videá na YouTube, články, príspevky na Telegrame a Reddite, novinky, aplikácie, recepty a len zaujímavé materiály z internetu. Buďte aktuálni s tým, čo je momentálne trendy vo svete, medzi vašimi priateľmi a vo vašom okolí.
+
+Podpora pre Reddit.
+Čítajte svoje obľúbené subreddity a obľúbených používateľov priamo z aplikácie.
+
+Widgety.
+Teraz môžete pridať widgety o najnovších článkoch z kariet Dnes a Kanály, populárne a najnovšie odkazy, alebo dokonca odkazy s konkrétnym hashtagom.
+
+Dva nové jazyky: čínština a slovenčina.
+
+A mnoho ďalších malých, ale dôležitých zmien:
+• Aktualizovaný dizajn obrazovky Zdroje s jednoduchšou navigáciou a viac možnosťami "otvorené predvolene".
+• Nové nastavenie v článkoch: výška riadku.
+• Možnosť úplne skryť bočný panel na iPade a macOS.
+• Opravy chýb a niektoré zmeny v rozhraní.

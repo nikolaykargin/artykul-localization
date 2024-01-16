@@ -2,8 +2,11 @@
 
 Lesen Sie Ihre Lieblingsseiten in einer App und ohne Störungen. Bleiben Sie über das Geschehen in Ihren Interessensgebieten auf dem Laufenden. Artykul ist ein RSS-Reader mit einem erstklassigen nativen Reader.
 
-RSS, ATOM, YOUTUBE, TELEGRAM, MASTODON
-Sie können jede Website hinzufügen, die RSS oder Atom unterstützt. Fügen Sie Ihre Lieblingsblogs, Nachrichtenseiten, YouTube-Kanäle, Telegram-Kanäle, oder Mastodon hinzu.
+RSS, ATOM, YOUTUBE, TELEGRAM, MASTODON, REDDIT
+Sie können jede Website hinzufügen, die RSS oder Atom unterstützt. Fügen Sie Ihre Lieblingsblogs, Nachrichtenseiten, Reddit, YouTube, Telegram-Kanäle oder Mastodon-Profile hinzu.
+
+LINKS
+Teilen Sie Links zu interessanten YouTube-Videos, Artikeln, Telegram- und Reddit-Beiträgen, Nachrichten, Apps, Rezepten und einfach interessanten Materialien aus dem Internet. Bleiben Sie informiert über das, was aktuell in der Welt, unter Ihren Freunden und in Ihrer Umgebung relevant ist.
 
 FEEDS & ORDNER
 Erstellen Sie benutzerdefinierte Ordner und fügen Sie Websites hinzu. Sie können benutzerdefinierte Symbole für Ihre Ordner festlegen. Feeds und Ordner werden mit Ihrem Artykul-Konto synchronisiert, wenn Sie möchten. Sie können Push-Benachrichtigungen für Ihre Lieblingsseiten aktivieren und als Erster über neue Artikel informiert werden.
@@ -39,10 +42,21 @@ Nutzungsbedingungen: https://artykul.org/doc/terms-of-use/
 
 # What's New in This Version
 
-In diesem Update gibt es keine großen neuen Funktionen, aber einige Fehler und Probleme wurden behoben, und es gibt eine nette Überraschung.
+Dies ist eines der großartigsten Updates. Alles, was Sie gefragt haben, und noch mehr.
 
-Sie haben sehr oft danach gefragt, und wir haben es umgesetzt. Artykul Infinity - eine Alternative zum monatlichen und jährlichen Abonnement. Eine einmalige Zahlung, um unbegrenzten Zugang zu Artykul für immer zu erhalten.
+Wir stellen einen neuen Abschnitt vor – Links!
+Teilen Sie Links zu interessanten YouTube-Videos, Artikeln, Telegram- und Reddit-Beiträgen, Nachrichten, Apps, Rezepten und einfach interessanten Materialien aus dem Internet. Bleiben Sie auf dem Laufenden, was gerade in der Welt, unter Ihren Freunden und in Ihrer Umgebung im Trend ist.
 
-Außerdem haben wir das Verhalten der Benutzeroberfläche auf iPad und macOS leicht verbessert.
+Reddit-Unterstützung.
+Lesen Sie Ihre Lieblings-Subreddits und Ihre Lieblingsbenutzer direkt aus der App.
 
-Leider ist in diesem Update die Funktion Artikel-zu-Audio vorübergehend nicht verfügbar. Wir werden sie so schnell wie möglich wieder einführen.
+Widgets.
+Jetzt können Sie Widgets über die neuesten Artikel aus den Registerkarten Heute und Feed, beliebte und aktuelle Links oder sogar Links mit einem bestimmten Hashtag hinzufügen.
+
+Zwei neue Sprachen: Chinesisch und Slowakisch.
+
+Und viele weitere kleine, aber wichtige Änderungen:
+• Überarbeitetes Design des Quellenbildschirms mit vereinfachter Navigation und mehr Optionen, die "standardmäßig geöffnet" sind.
+• Neue Einstellung in Artikeln: Zeilenhöhe.
+• Die Möglichkeit, die Seitenleiste auf dem iPad und macOS komplett auszublenden.
+• Fehlerbehebungen und einige Schnittstellenänderungen.
