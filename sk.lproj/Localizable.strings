@@ -66,7 +66,7 @@
 "feed.empty.bookmarks_1" = "V tejto časti môžeš ukladať stránky, ktoré nemajú feed. Ak chceš pridať webstránku do tohto zoznamu, ťukni na položku ";
 "feed.empty.bookmarks_2" = " vyššie alebo použi ponuku Zdieľať v prehliadači.";
 "feed.empty.favorites_1" = "Pre pridanie článku k obľúbeným, ťukni na ";
-"feed.empty.favorites_2" = " pri čítaní alebo podrž prst na karte a vyber \"Do obľúbených\".";
+"feed.empty.favorites_2" = " pri čítaní alebo podrž prst na karte a vyber “Do obľúbených”.";
 
 "bookmarks.addTitle" = "Pridať záložku";
 "bookmarks.url" = "URL stránky";
@@ -154,7 +154,7 @@
 "settings.rate" = "Ohodnotiť Artykul";
 "settings.rate.note" = "Pomôže to ostatným dozvedieť sa o aplikácii. Ak máš problém, kontaktuj nás, prosím.";
 
-"auth.bigTitle" = "Získaj viac s účtom";	
+"auth.bigTitle" = "Získaj viac s účtom";
 "auth.feature.sync" = "Synchronizácia";
 "auth.feature.sync.description" = "Zdroje, obľúbené položky a záložky budú synchronizované medzi zariadeniami Apple.";
 "auth.feature.notifications" = "Upozornenia";
@@ -361,3 +361,14 @@
 "widget.links.description" = "Zobrazí najnovšie zverejnené odkazy";
 "articles" = "Články";
 "widget.articles.description" = "Zobrazí najnovšie články";
+
+// 1.6
+"library" = "Knižnica";
+"newArticles" = "Nové Články";
+"tapToRefresh" = "Kliknite pre obnovenie";
+"settings.feed.autoRefresh" = "Automatické obnovovanie";
+"settings.feed.autoRefresh.note" = "Keď je zapnuté, nové články sa automaticky vkladajú do kanála.";
+"actions.openInNewWindow" = "Otvoriť v novom okne";
+"actions.translateWithGoogle" = "Preložiť pomocou Google";
+"actions.language" = "Jazyk";
+"actions.viewOriginal" = "Zobraziť originál";

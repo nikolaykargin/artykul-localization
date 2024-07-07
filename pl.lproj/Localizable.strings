@@ -358,3 +358,14 @@
 "widget.links.description" = "Pokazuje najnowsze opublikowane linki";
 "articles" = "Artykuły";
 "widget.articles.description" = "Pokazuje najnowsze artykuły";
+
+// 1.6
+"library" = "Biblioteka";
+"newArticles" = "Nowe Artykuły";
+"tapToRefresh" = "Stuknij, aby odświeżyć";
+"settings.feed.autoRefresh" = "Automatyczne odświeżanie";
+"settings.feed.autoRefresh.note" = "Gdy włączone, nowe artykuły są automatycznie wstawiane do kanału.";
+"actions.openInNewWindow" = "Otwórz w nowym oknie";
+"actions.translateWithGoogle" = "Tłumacz z Google";
+"actions.language" = "Język";
+"actions.viewOriginal" = "Zobacz oryginał";

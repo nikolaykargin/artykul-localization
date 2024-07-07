@@ -361,3 +361,14 @@
 "widget.links.description" = "显示最新发布的链接";
 "articles" = "文章";
 "widget.articles.description" = "显示最新的文章";
+
+// 1.6
+"library" = "图书馆";
+"newArticles" = "新文章";
+"tapToRefresh" = "点击刷新";
+"settings.feed.autoRefresh" = "自动刷新";
+"settings.feed.autoRefresh.note" = "启用后，新文章会自动插入到动态中。";
+"actions.openInNewWindow" = "在新窗口中打开";
+"actions.translateWithGoogle" = "使用谷歌翻译";
+"actions.language" = "语言";
+"actions.viewOriginal" = "查看原文";

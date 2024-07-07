@@ -357,3 +357,14 @@
 "widget.links.description" = "Показывает последние опубликованные ссылки";
 "articles" = "Статьи";
 "widget.articles.description" = "Показывает последние статьи";
+
+// 1.6
+"library" = "Библиотека";
+"newArticles" = "Новые Статьи";
+"tapToRefresh" = "Нажмите для обновления";
+"settings.feed.autoRefresh" = "Автоматическое обновление";
+"settings.feed.autoRefresh.note" = "Когда включено, новые статьи автоматически добавляются в ленту.";
+"actions.openInNewWindow" = "Открыть в новом окне";
+"actions.translateWithGoogle" = "Перевести с Google";
+"actions.language" = "Язык";
+"actions.viewOriginal" = "Показать оригинал";

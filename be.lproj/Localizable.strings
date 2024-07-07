@@ -360,3 +360,14 @@
 "widget.links.description" = "Паказвае апошнія апублікаваныя спасылкі";
 "articles" = "Артыкулы";
 "widget.articles.description" = "Паказвае апошнія артыкулы";
+
+// 1.6
+"library" = "Бібліятэка";
+"newArticles" = "Новыя артыкулы";
+"tapToRefresh" = "Націсніце, каб абнавіць";
+"settings.feed.autoRefresh" = "Аўтаматычнае абнаўленне";
+"settings.feed.autoRefresh.note" = "Калі ўключана, новыя артыкулы аўтаматычна ўстаўляюцца ў стужку.";
+"actions.openInNewWindow" = "Адкрыць у новым акне";
+"actions.translateWithGoogle" = "Перакласць з Google";
+"actions.language" = "Мова";
+"actions.viewOriginal" = "Паказаць арыгінал";

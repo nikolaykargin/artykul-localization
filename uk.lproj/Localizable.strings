@@ -357,3 +357,14 @@
 "widget.links.description" = "Показує останні опубліковані посилання";
 "articles" = "Статті";
 "widget.articles.description" = "Показує останні статті";
+
+// 1.6
+"library" = "Бібліотека";
+"newArticles" = "Нові статті";
+"tapToRefresh" = "Торкніться, щоб оновити";
+"settings.feed.autoRefresh" = "Автоматичне оновлення";
+"settings.feed.autoRefresh.note" = "Коли ввімкнено, нові статті автоматично додаються до стрічки.";
+"actions.openInNewWindow" = "Відкрити в новому вікні";
+"actions.translateWithGoogle" = "Перекласти за допомогою Google";
+"actions.language" = "Мова";
+"actions.viewOriginal" = "Переглянути оригінал";

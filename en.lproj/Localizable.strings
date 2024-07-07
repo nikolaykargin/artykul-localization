@@ -247,7 +247,7 @@
 "premium.oneTime.buyFor" = "Buy for %@";
 "premium.oneTime.note" = "One time purchase.";
 
-"premium.searchRestricted.title" = "Search are limited";
+"premium.searchRestricted.title" = "Search is limited";
 "premium.searchRestricted.description" = "Only premium users can get all search results.";
 "premium.searchRestricted.action" = "Learn about premium";
 
@@ -361,3 +361,14 @@
 "widget.links.description" = "Shows the latest published links";
 "articles" = "Articles";
 "widget.articles.description" = "Shows the latest articles";
+
+// 1.6
+"library" = "Library";
+"newArticles" = "New Articles";
+"tapToRefresh" = "Tap to refresh";
+"settings.feed.autoRefresh" = "Auto Refresh";
+"settings.feed.autoRefresh.note" = "When enabled, new articles are automatically inserted into the feed.";
+"actions.openInNewWindow" = "Open in New Window";
+"actions.translateWithGoogle" = "Translate With Google";
+"actions.language" = "Language";
+"actions.viewOriginal" = "View Original";

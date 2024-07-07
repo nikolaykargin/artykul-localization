@@ -357,3 +357,14 @@
 "widget.links.description" = "Mostra gli ultimi collegamenti pubblicati";
 "articles" = "Articoli";
 "widget.articles.description" = "Mostra gli ultimi articoli";
+
+// 1.6
+"library" = "Biblioteca";
+"newArticles" = "Nuovi Articoli";
+"tapToRefresh" = "Tocca per aggiornare";
+"settings.feed.autoRefresh" = "Aggiornamento automatico";
+"settings.feed.autoRefresh.note" = "Quando attivato, i nuovi articoli vengono inseriti automaticamente nel feed.";
+"actions.openInNewWindow" = "Apri in una nuova finestra";
+"actions.translateWithGoogle" = "Traduci con Google";
+"actions.language" = "Lingua";
+"actions.viewOriginal" = "Visualizza originale";
