@@ -24,4 +24,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-MainInterface.*
+
+#MainInterface.*
+#LaunchScreen.*
